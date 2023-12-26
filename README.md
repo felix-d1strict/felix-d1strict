@@ -3,6 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Supporteinschränkungen aufgrund von Krankheit](https://felix-d1strict.de/blog/33-supporteinschr%C3%A4nkungen-aufgrund-von-krankheit/)
+- [GangstaSunny Designz schließt](https://felix-d1strict.de/blog/31-gangstasunny-designz-schlie%C3%9Ft/)
+- [Produkt-Updates](https://felix-d1strict.de/blog/15-produkt-updates/)
+- [Neues Produkt: BBCode: QR-Code](https://felix-d1strict.de/blog/14-neues-produkt-bbcode-qr-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
