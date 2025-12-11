@@ -12,7 +12,7 @@
 <a href="https://instagram.com/wa.felix.d1strict" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wa.felix.d1strict" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@wa.felix.d1strict" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wa.felix.d1strict" height="30" width="40" /></a>
 <a href="https://discord.gg/h6YHJYb9jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h6YHJYb9jk" height="30" width="40" /></a>
-<a href="/https://d1strict.media/article-rss-feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://d1strict.media/article-rss-feed/" height="30" width="40" /></a>
+<a href="https://d1strict.media/article-rss-feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://d1strict.media/article-rss-feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
