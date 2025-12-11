@@ -3,11 +3,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felix-wassmuth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix-wassmuth" height="30" width="40" /></a>
-<a href="https://fb.com/wa.felix.d1strict" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wa.felix.d1strict" height="30" width="40" /></a>
+<a href="https://fb.com/d1strictmedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wa.felix.d1strict" height="30" width="40" /></a>
 <a href="https://instagram.com/wa.felix.d1strict" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wa.felix.d1strict" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@wa.felix.d1strict" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@wa.felix.d1strict" height="30" width="40" /></a>
 <a href="https://discord.gg/h6YHJYb9jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h6YHJYb9jk" height="30" width="40" /></a>
-<a href="https://felix-d1strict.de/article-feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://felix-d1strict.de/article-feed/" height="30" width="40" /></a>
+<a href="https://d1strict.media/article-feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://felix-d1strict.de/article-feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
