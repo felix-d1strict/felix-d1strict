@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwerer Zusammenstoß in Berlin-Mitte: Straßenbahn und Reisebus kollidieren auf der Mollstraße](https://d1strict.media/article/153-schwerer-zusammensto%C3%9F-in-berlin-mitte-stra%C3%9Fenbahn-und-reisebus-kollidieren-auf-d/)
+- [Schwerer Unfall in Lichtenberg: Straßenbahn erfasst Kleintransporter](https://d1strict.media/article/154-schwerer-unfall-in-lichtenberg-stra%C3%9Fenbahn-erfasst-kleintransporter/)
 - [Straßenbahn kollidiert mit Taxi auf der Landsberger Allee – mehrere Verletzte](https://d1strict.media/article/152-stra%C3%9Fenbahn-kollidiert-mit-taxi-auf-der-landsberger-allee-mehrere-verletzte/)
 - [Zwei Brände in der Fichtelbergstraße binnen weniger Stunden](https://d1strict.media/article/102-zwei-br%C3%A4nde-in-der-fichtelbergstra%C3%9Fe-binnen-weniger-stunden/)
-- [Schwerer Unfall in Niederschöneweide - Alkoholfahrt endet in Trümmerfeld](https://d1strict.media/article/104-schwerer-unfall-in-niedersch%C3%B6neweide-alkoholfahrt-endet-in-tr%C3%BCmmerfeld/)
-- [Verkehrsunfall in Marzahn: Skoda auf Mittelinsel geschleudert](https://d1strict.media/article/101-verkehrsunfall-in-marzahn-skoda-auf-mittelinsel-geschleudert/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
