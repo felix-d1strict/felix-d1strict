@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwerer Verkehrsunfall in Hoppegarten: Transporter reißt Ampelmast aus Verankerung](https://d1strict.media/article/156-schwerer-verkehrsunfall-in-hoppegarten-transporter-rei%C3%9Ft-ampelmast-aus-verankeru/)
+- [Gelenkbus kollidiert mit Mercedes in Berlin-Hellersdorf](https://d1strict.media/article/155-gelenkbus-kollidiert-mit-mercedes-in-berlin-hellersdorf/)
 - [Schwerer Zusammenstoß in Berlin-Mitte: Straßenbahn und Reisebus kollidieren auf der Mollstraße](https://d1strict.media/article/153-schwerer-zusammensto%C3%9F-in-berlin-mitte-stra%C3%9Fenbahn-und-reisebus-kollidieren-auf-d/)
 - [Schwerer Unfall in Lichtenberg: Straßenbahn erfasst Kleintransporter](https://d1strict.media/article/154-schwerer-unfall-in-lichtenberg-stra%C3%9Fenbahn-erfasst-kleintransporter/)
-- [Straßenbahn kollidiert mit Taxi auf der Landsberger Allee – mehrere Verletzte](https://d1strict.media/article/152-stra%C3%9Fenbahn-kollidiert-mit-taxi-auf-der-landsberger-allee-mehrere-verletzte/)
-- [Zwei Brände in der Fichtelbergstraße binnen weniger Stunden](https://d1strict.media/article/102-zwei-br%C3%A4nde-in-der-fichtelbergstra%C3%9Fe-binnen-weniger-stunden/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
