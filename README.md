@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Wohnungsbrand in Karlshorst: Zwei Menschen aus brennender Wohnung gerettet](https://d1strict.media/article/173-wohnungsbrand-in-karlshorst-zwei-menschen-aus-brennender-wohnung-gerettet/)
 - [Fahrerflucht? Mazda prallt in Rudow gegen geparkten Wagen](https://d1strict.media/article/171-fahrerflucht-mazda-prallt-in-rudow-gegen-geparkten-wagen/)
+- [Renault fährt in Lichtenberg ins Gleisbett](https://d1strict.media/article/172-renault-f%C3%A4hrt-in-lichtenberg-ins-gleisbett/)
 - [Nacheile endet in Frontalcrash – drei Verletzte in Bernau](https://d1strict.media/article/170-nacheile-endet-in-frontalcrash-drei-verletzte-in-bernau/)
-- [Schüsse in Kreuzberg: Mehrere Personen verletzt – Polizei bittet um Hinweise](https://d1strict.media/article/169-sch%C3%BCsse-in-kreuzberg-mehrere-personen-verletzt-polizei-bittet-um-hinweise/)
-- [Müllcontainer in Friedrichsfelde in Brand geraten](https://d1strict.media/article/168-m%C3%BCllcontainer-in-friedrichsfelde-in-brand-geraten/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
