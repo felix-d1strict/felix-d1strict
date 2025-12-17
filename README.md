@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Alkoholfahrt endet in Haltestelle in der Edisonstraße](https://d1strict.media/article/183-alkoholfahrt-endet-in-haltestelle-in-der-edisonstra%C3%9Fe/)
+- [Kellerbrand in Friedrichsfelde – Feuerwehr verhindert Schlimmeres](https://d1strict.media/article/182-kellerbrand-in-friedrichsfelde-feuerwehr-verhindert-schlimmeres/)
+- [Großbrand zerstört Feuerwehrgerätehaus in Dürrenhofe](https://d1strict.media/article/181-gro%C3%9Fbrand-zerst%C3%B6rt-feuerwehrger%C3%A4tehaus-in-d%C3%BCrrenhofe/)
 - [Schwerer Verkehrsunfall in Weißensee – 25-Jährige verliert Kontrolle über PKW](https://d1strict.media/article/180-schwerer-verkehrsunfall-in-wei%C3%9Fensee-25-j%C3%A4hrige-verliert-kontrolle-%C3%BCber-pkw/)
-- [Rauch auf 9 Etagen: Großeinsatz der Feuerwehr in Alt-Hohenschönhausen](https://d1strict.media/article/179-rauch-auf-9-etagen-gro%C3%9Feinsatz-der-feuerwehr-in-alt-hohensch%C3%B6nhausen/)
-- [Brandserie in Marzahn: Fahrzeuge und Müllcontainer in Flammen](https://d1strict.media/article/178-brandserie-in-marzahn-fahrzeuge-und-m%C3%BCllcontainer-in-flammen/)
-- [Mehrere Brände in Hohenschönhausen – Polizei prüft möglichen Zusammenhang](https://d1strict.media/article/177-mehrere-br%C3%A4nde-in-hohensch%C3%B6nhausen-polizei-pr%C3%BCft-m%C3%B6glichen-zusammenhang/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
