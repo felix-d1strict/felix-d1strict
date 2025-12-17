@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fahrzeugbrand am Treptower Park: TESLA geht in Flammen auf](https://d1strict.media/article/108-fahrzeugbrand-am-treptower-park-tesla-geht-in-flammen-auf/)
+- [Schwerer Verkehrsunfall an der Potsdamer Straße – Acht Verletzte](https://d1strict.media/article/161-schwerer-verkehrsunfall-an-der-potsdamer-stra%C3%9Fe-acht-verletzte/)
 - [Zwei Amazon-Transporter brennen in Hoppegarten aus](https://d1strict.media/article/160-zwei-amazon-transporter-brennen-in-hoppegarten-aus/)
 - [Brand in Altkleidercontainer sorgt für Feuerwehreinsatz in Marzahn-Nord](https://d1strict.media/article/159-brand-in-altkleidercontainer-sorgt-f%C3%BCr-feuerwehreinsatz-in-marzahn-nord/)
-- [Schwere Kollision in Hoppegarten: Transporter reißt Ampelmast aus Verankerung](https://d1strict.media/article/156-schwere-kollision-in-hoppegarten-transporter-rei%C3%9Ft-ampelmast-aus-verankerung/)
-- [Fahrzeugbrand in Hellersdorf: Mercedes geht auf Parkplatz in Flammen auf](https://d1strict.media/article/157-fahrzeugbrand-in-hellersdorf-mercedes-geht-auf-parkplatz-in-flammen-auf/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
