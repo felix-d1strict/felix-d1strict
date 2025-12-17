@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwerer Verkehrsunfall in Weißensee – 25-Jährige verliert Kontrolle über PKW](https://d1strict.media/article/180-schwerer-verkehrsunfall-in-wei%C3%9Fensee-25-j%C3%A4hrige-verliert-kontrolle-%C3%BCber-pkw/)
+- [Rauch auf 9 Etagen: Großeinsatz der Feuerwehr in Alt-Hohenschönhausen](https://d1strict.media/article/179-rauch-auf-9-etagen-gro%C3%9Feinsatz-der-feuerwehr-in-alt-hohensch%C3%B6nhausen/)
 - [Brandserie in Marzahn: Fahrzeuge und Müllcontainer in Flammen](https://d1strict.media/article/178-brandserie-in-marzahn-fahrzeuge-und-m%C3%BCllcontainer-in-flammen/)
 - [Mehrere Brände in Hohenschönhausen – Polizei prüft möglichen Zusammenhang](https://d1strict.media/article/177-mehrere-br%C3%A4nde-in-hohensch%C3%B6nhausen-polizei-pr%C3%BCft-m%C3%B6glichen-zusammenhang/)
-- [Straßenbahn kollidiert mit zwei Autos – fünf Verletzte in Marzahn](https://d1strict.media/article/176-stra%C3%9Fenbahn-kollidiert-mit-zwei-autos-f%C3%BCnf-verletzte-in-marzahn/)
-- [Dachstuhlbrand in Wensickendorf: Einfamilienhaus brennt vollständig aus](https://d1strict.media/article/175-dachstuhlbrand-in-wensickendorf-einfamilienhaus-brennt-vollst%C3%A4ndig-aus/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
