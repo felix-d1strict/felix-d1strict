@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fahrerflucht? Mazda prallt in Rudow gegen geparkten Wagen](https://d1strict.media/article/171-fahrerflucht-mazda-prallt-in-rudow-gegen-geparkten-wagen/)
+- [Nacheile endet in Frontalcrash – drei Verletzte in Bernau](https://d1strict.media/article/170-nacheile-endet-in-frontalcrash-drei-verletzte-in-bernau/)
+- [Schüsse in Kreuzberg: Mehrere Personen verletzt – Polizei bittet um Hinweise](https://d1strict.media/article/169-sch%C3%BCsse-in-kreuzberg-mehrere-personen-verletzt-polizei-bittet-um-hinweise/)
 - [Müllcontainer in Friedrichsfelde in Brand geraten](https://d1strict.media/article/168-m%C3%BCllcontainer-in-friedrichsfelde-in-brand-geraten/)
-- [Schwerer Unfall in Köpenick: Transporter überschlägt sich](https://d1strict.media/article/166-schwerer-unfall-in-k%C3%B6penick-transporter-%C3%BCberschl%C3%A4gt-sich/)
-- [32 Verletzte bei Wohnungsbrand &amp; Explosionen in Neukölln](https://d1strict.media/article/167-32-verletzte-bei-wohnungsbrand-explosionen-in-neuk%C3%B6lln/)
-- [Brand im Treppenhaus: Neun Bewohner in Hellersdorf gerettet](https://d1strict.media/article/165-brand-im-treppenhaus-neun-bewohner-in-hellersdorf-gerettet/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
