@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Küchenbrand in Köpenick – Treppenhaus stark verraucht](https://d1strict.media/article/162-k%C3%BCchenbrand-in-k%C3%B6penick-treppenhaus-stark-verraucht/)
 - [Fahrzeugbrand am Treptower Park: TESLA geht in Flammen auf](https://d1strict.media/article/108-fahrzeugbrand-am-treptower-park-tesla-geht-in-flammen-auf/)
 - [Schwerer Verkehrsunfall an der Potsdamer Straße – Acht Verletzte](https://d1strict.media/article/161-schwerer-verkehrsunfall-an-der-potsdamer-stra%C3%9Fe-acht-verletzte/)
 - [Zwei Amazon-Transporter brennen in Hoppegarten aus](https://d1strict.media/article/160-zwei-amazon-transporter-brennen-in-hoppegarten-aus/)
-- [Brand in Altkleidercontainer sorgt für Feuerwehreinsatz in Marzahn-Nord](https://d1strict.media/article/159-brand-in-altkleidercontainer-sorgt-f%C3%BCr-feuerwehreinsatz-in-marzahn-nord/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
