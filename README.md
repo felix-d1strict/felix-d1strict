@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dachstuhlbrand in Wensickendorf: Einfamilienhaus brennt vollständig aus](https://d1strict.media/article/175-dachstuhlbrand-in-wensickendorf-einfamilienhaus-brennt-vollst%C3%A4ndig-aus/)
+- [Tödliche Verpuffung in Einfamilienhaus in Buckow](https://d1strict.media/article/174-t%C3%B6dliche-verpuffung-in-einfamilienhaus-in-buckow/)
 - [Wohnungsbrand in Karlshorst: Zwei Menschen aus brennender Wohnung gerettet](https://d1strict.media/article/173-wohnungsbrand-in-karlshorst-zwei-menschen-aus-brennender-wohnung-gerettet/)
 - [Fahrerflucht? Mazda prallt in Rudow gegen geparkten Wagen](https://d1strict.media/article/171-fahrerflucht-mazda-prallt-in-rudow-gegen-geparkten-wagen/)
-- [Renault fährt in Lichtenberg ins Gleisbett](https://d1strict.media/article/172-renault-f%C3%A4hrt-in-lichtenberg-ins-gleisbett/)
-- [Nacheile endet in Frontalcrash – drei Verletzte in Bernau](https://d1strict.media/article/170-nacheile-endet-in-frontalcrash-drei-verletzte-in-bernau/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
