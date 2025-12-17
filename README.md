@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mehrere Brände in Hohenschönhausen – Polizei prüft möglichen Zusammenhang](https://d1strict.media/article/177-mehrere-br%C3%A4nde-in-hohensch%C3%B6nhausen-polizei-pr%C3%BCft-m%C3%B6glichen-zusammenhang/)
+- [Straßenbahn kollidiert mit zwei Autos – fünf Verletzte in Marzahn](https://d1strict.media/article/176-stra%C3%9Fenbahn-kollidiert-mit-zwei-autos-f%C3%BCnf-verletzte-in-marzahn/)
 - [Dachstuhlbrand in Wensickendorf: Einfamilienhaus brennt vollständig aus](https://d1strict.media/article/175-dachstuhlbrand-in-wensickendorf-einfamilienhaus-brennt-vollst%C3%A4ndig-aus/)
 - [Tödliche Verpuffung in Einfamilienhaus in Buckow](https://d1strict.media/article/174-t%C3%B6dliche-verpuffung-in-einfamilienhaus-in-buckow/)
-- [Wohnungsbrand in Karlshorst: Zwei Menschen aus brennender Wohnung gerettet](https://d1strict.media/article/173-wohnungsbrand-in-karlshorst-zwei-menschen-aus-brennender-wohnung-gerettet/)
-- [Fahrerflucht? Mazda prallt in Rudow gegen geparkten Wagen](https://d1strict.media/article/171-fahrerflucht-mazda-prallt-in-rudow-gegen-geparkten-wagen/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
