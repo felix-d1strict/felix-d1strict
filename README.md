@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Verkehrsunfall nahe Ostkreuz: Zwei Autos kollidieren – eine Verletzte](https://d1strict.media/article/198-verkehrsunfall-nahe-ostkreuz-zwei-autos-kollidieren-eine-verletzte/)
+- [Brand in Müllstandsfläche in Hellersdorf – freiwillige Feuerwehr rückt aus](https://d1strict.media/article/197-brand-in-m%C3%BCllstandsfl%C3%A4che-in-hellersdorf-freiwillige-feuerwehr-r%C3%BCckt-aus/)
+- [Brand in Obdachlosen-Camp in Berlin-Friedrichshain – erneut Feuer auf dem Gelände](https://d1strict.media/article/196-brand-in-obdachlosen-camp-in-berlin-friedrichshain-erneut-feuer-auf-dem-gel%C3%A4nde/)
 - [Brand vor Hauseingang in Marzahn – Polizei ermittelt](https://d1strict.media/article/192-brand-vor-hauseingang-in-marzahn-polizei-ermittelt/)
-- [Schwerer Unfall an Kreuzung – Motorradfahrer von Straßenbahn erfasst](https://d1strict.media/article/194-schwerer-unfall-an-kreuzung-motorradfahrer-von-stra%C3%9Fenbahn-erfasst/)
-- [Tödlicher Streit in Wriezen: 17-Jähriger nach Messerangriff festgenommen](https://d1strict.media/article/195-t%C3%B6dlicher-streit-in-wriezen-17-j%C3%A4hriger-nach-messerangriff-festgenommen/)
-- [Brand an Scheunentor in Blumberg – Polizei ermittelt wegen möglicher Brandstiftung](https://d1strict.media/article/193-brand-an-scheunentor-in-blumberg-polizei-ermittelt-wegen-m%C3%B6glicher-brandstiftung/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
