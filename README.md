@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwerer Verkehrsunfall in Müggelheim – Senior lebensgefährlich verletzt](https://d1strict.media/article/190-schwerer-verkehrsunfall-in-m%C3%BCggelheim-senior-lebensgef%C3%A4hrlich-verletzt/)
+- [Schwerer Verkehrsunfall in Berlin-Oberschöneweide: Motorrad prallt frontal in PKW](https://d1strict.media/article/191-schwerer-verkehrsunfall-in-berlin-obersch%C3%B6neweide-motorrad-prallt-frontal-in-pkw/)
 - [Wohnungsbrand in Berlin-Wedding – Eine Person ins Krankenhaus gebracht](https://d1strict.media/article/187-wohnungsbrand-in-berlin-wedding-eine-person-ins-krankenhaus-gebracht/)
 - [Großbrand in Berlin-Lichterfelde: Industriegebäude in Brand](https://d1strict.media/article/189-gro%C3%9Fbrand-in-berlin-lichterfelde-industriegeb%C3%A4ude-in-brand/)
-- [Fahrzeugbrand auf der Südostalleebrücke – Drei Autos beschädigt](https://d1strict.media/article/188-fahrzeugbrand-auf-der-s%C3%BCdostalleebr%C3%BCcke-drei-autos-besch%C3%A4digt/)
-- [Dreimal im Gleisbett: Feuerwehr rückt zu mehreren Fahrzeugbergungen aus](https://d1strict.media/article/186-dreimal-im-gleisbett-feuerwehr-r%C3%BCckt-zu-mehreren-fahrzeugbergungen-aus/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
