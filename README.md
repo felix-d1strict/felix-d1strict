@@ -3,9 +3,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Brand vor Hauseingang in Marzahn – Polizei ermittelt](https://d1strict.media/article/192-brand-vor-hauseingang-in-marzahn-polizei-ermittelt/)
+- [Brand an Scheunentor in Blumberg – Polizei ermittelt wegen möglicher Brandstiftung](https://d1strict.media/article/193-brand-an-scheunentor-in-blumberg-polizei-ermittelt-wegen-m%C3%B6glicher-brandstiftung/)
 - [Schwerer Verkehrsunfall in Müggelheim – Senior lebensgefährlich verletzt](https://d1strict.media/article/190-schwerer-verkehrsunfall-in-m%C3%BCggelheim-senior-lebensgef%C3%A4hrlich-verletzt/)
 - [Schwerer Verkehrsunfall in Berlin-Oberschöneweide: Motorrad prallt frontal in PKW](https://d1strict.media/article/191-schwerer-verkehrsunfall-in-berlin-obersch%C3%B6neweide-motorrad-prallt-frontal-in-pkw/)
-- [Wohnungsbrand in Berlin-Wedding – Eine Person ins Krankenhaus gebracht](https://d1strict.media/article/187-wohnungsbrand-in-berlin-wedding-eine-person-ins-krankenhaus-gebracht/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
