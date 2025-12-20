@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dreimal im Gleisbett: Feuerwehr rückt zu mehreren Fahrzeugbergungen aus](https://d1strict.media/article/186-dreimal-im-gleisbett-feuerwehr-r%C3%BCckt-zu-mehreren-fahrzeugbergungen-aus/)
+- [Brand in Obdachlosen-Camp „Hugos Ranch“ – Feuerwehr löscht Brand in der Nacht](https://d1strict.media/article/184-brand-in-obdachlosen-camp-hugos-ranch-feuerwehr-l%C3%B6scht-brand-in-der-nacht/)
 - [Alkoholfahrt endet in Haltestelle in der Edisonstraße](https://d1strict.media/article/183-alkoholfahrt-endet-in-haltestelle-in-der-edisonstra%C3%9Fe/)
-- [Kellerbrand in Friedrichsfelde – Feuerwehr verhindert Schlimmeres](https://d1strict.media/article/182-kellerbrand-in-friedrichsfelde-feuerwehr-verhindert-schlimmeres/)
-- [Großbrand zerstört Feuerwehrgerätehaus in Dürrenhofe](https://d1strict.media/article/181-gro%C3%9Fbrand-zerst%C3%B6rt-feuerwehrger%C3%A4tehaus-in-d%C3%BCrrenhofe/)
-- [Schwerer Verkehrsunfall in Weißensee – 25-Jährige verliert Kontrolle über PKW](https://d1strict.media/article/180-schwerer-verkehrsunfall-in-wei%C3%9Fensee-25-j%C3%A4hrige-verliert-kontrolle-%C3%BCber-pkw/)
+- [Brand im neunten Stock: Feuerwehr löscht nächtliches Feuer in Wohnhaus](https://d1strict.media/article/185-brand-im-neunten-stock-feuerwehr-l%C3%B6scht-n%C3%A4chtliches-feuer-in-wohnhaus/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
