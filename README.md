@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Brand in leerstehendem Gebäude in Alt-Hohenschönhausen – Löscharbeiten dauern an](https://d1strict.media/artikel/215-brand-in-leerstehendem-geb%C3%A4ude-in-alt-hohensch%C3%B6nhausen-l%C3%B6scharbeiten-dauern-an/)
+- [Schwerer Verkehrsunfall in Marzahn – Mutter und Kind verletzt](https://d1strict.media/artikel/217-schwerer-verkehrsunfall-in-marzahn-mutter-und-kind-verletzt/)
+- [Brand in leerstehendem Gebäude in Alt-Hohenschönhausen](https://d1strict.media/artikel/215-brand-in-leerstehendem-geb%C3%A4ude-in-alt-hohensch%C3%B6nhausen/)
+- [Verkehrsunfall in Marzahn – Audi auf Mittelinsel geschleudert](https://d1strict.media/artikel/216-verkehrsunfall-in-marzahn-audi-auf-mittelinsel-geschleudert/)
 - [Handgranate explodiert in Kreuzberger Club](https://d1strict.media/artikel/214-handgranate-explodiert-in-kreuzberger-club/)
-- [Fahrzeugbrand an der Mehrower Allee: Tesla geht in Flammen auf](https://d1strict.media/artikel/213-fahrzeugbrand-an-der-mehrower-allee-tesla-geht-in-flammen-auf/)
-- [Zwei Fahrzeugbrände in Oberschöneweide – Verdacht auf Beziehungstat](https://d1strict.media/artikel/212-zwei-fahrzeugbr%C3%A4nde-in-obersch%C3%B6neweide-verdacht-auf-beziehungstat/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
