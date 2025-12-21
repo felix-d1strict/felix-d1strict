@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fahrzeugbrand in Marzahn – Zwei Autos auf Großparkplatz beschädigt](https://d1strict.media/article/208-fahrzeugbrand-in-marzahn-zwei-autos-auf-gro%C3%9Fparkplatz-besch%C3%A4digt/)
 - [Brand auf Müllstandsfläche in Rummelsburg](https://d1strict.media/article/207-brand-auf-m%C3%BCllstandsfl%C3%A4che-in-rummelsburg/)
 - [Brand auf Grundstück in Seefeld – Zwei Anwohner bei Löschversuchen verletzt](https://d1strict.media/article/205-brand-auf-grundst%C3%BCck-in-seefeld-zwei-anwohner-bei-l%C3%B6schversuchen-verletzt/)
 - [Mercedes gerät in Straßenbahngleis – nächtlicher Unfall in Marzahn ohne Verletzte](https://d1strict.media/article/206-mercedes-ger%C3%A4t-in-stra%C3%9Fenbahngleis-n%C3%A4chtlicher-unfall-in-marzahn-ohne-verletzte/)
-- [Radfahrer in Marzahn attackiert – Zwei Jugendliche nach Körperverletzung festgenommen](https://d1strict.media/article/204-radfahrer-in-marzahn-attackiert-zwei-jugendliche-nach-k%C3%B6rperverletzung-festgenom/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
