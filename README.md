@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Brand in leerstehendem Gebäude in Alt-Hohenschönhausen – Löscharbeiten dauern an](https://d1strict.media/artikel/215-brand-in-leerstehendem-geb%C3%A4ude-in-alt-hohensch%C3%B6nhausen-l%C3%B6scharbeiten-dauern-an/)
+- [Handgranate explodiert in Kreuzberger Club](https://d1strict.media/artikel/214-handgranate-explodiert-in-kreuzberger-club/)
+- [Fahrzeugbrand an der Mehrower Allee: Tesla geht in Flammen auf](https://d1strict.media/artikel/213-fahrzeugbrand-an-der-mehrower-allee-tesla-geht-in-flammen-auf/)
 - [Zwei Fahrzeugbrände in Oberschöneweide – Verdacht auf Beziehungstat](https://d1strict.media/artikel/212-zwei-fahrzeugbr%C3%A4nde-in-obersch%C3%B6neweide-verdacht-auf-beziehungstat/)
-- [Demonstration in Friedrichshain eskaliert – 25 Festnahmen, acht Polizisten verletzt](https://d1strict.media/artikel/211-demonstration-in-friedrichshain-eskaliert-25-festnahmen-acht-polizisten-verletzt/)
-- [Fußgängerin bei Verkehrsunfall in Lichtenberg schwer verletzt](https://d1strict.media/artikel/210-fu%C3%9Fg%C3%A4ngerin-bei-verkehrsunfall-in-lichtenberg-schwer-verletzt/)
-- [Wohnungsbrand im Hochhaus in Friedrichsfelde – Großeinsatz der Feuerwehr](https://d1strict.media/artikel/209-wohnungsbrand-im-hochhaus-in-friedrichsfelde-gro%C3%9Feinsatz-der-feuerwehr/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
