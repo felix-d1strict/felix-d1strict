@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tunnelbrand als größtes Risiko: Feuerwehr probt den Ernstfall auf der A111](https://d1strict.media/article/202-tunnelbrand-als-gr%C3%B6%C3%9Ftes-risiko-feuerwehr-probt-den-ernstfall-auf-der-a111/)
 - [Razzia in illegalem Casino in Lichtenberg: Polizei findet Waffen und Drogen](https://d1strict.media/article/199-razzia-in-illegalem-casino-in-lichtenberg-polizei-findet-waffen-und-drogen/)
-- [Verkehrsunfall nahe Ostkreuz: Zwei Autos kollidieren – eine Verletzte](https://d1strict.media/article/198-verkehrsunfall-nahe-ostkreuz-zwei-autos-kollidieren-eine-verletzte/)
-- [Brand in Müllstandsfläche in Hellersdorf – freiwillige Feuerwehr rückt aus](https://d1strict.media/article/197-brand-in-m%C3%BCllstandsfl%C3%A4che-in-hellersdorf-freiwillige-feuerwehr-r%C3%BCckt-aus/)
-- [Brand in Obdachlosen-Camp in Berlin-Friedrichshain – erneut Feuer auf dem Gelände](https://d1strict.media/article/196-brand-in-obdachlosen-camp-in-berlin-friedrichshain-erneut-feuer-auf-dem-gel%C3%A4nde/)
+- [Garagenbrand in Joachimsthal - Feuerwehr verhindert Schlimmeres](https://d1strict.media/article/201-garagenbrand-in-joachimsthal-feuerwehr-verhindert-schlimmeres/)
+- [Unfall mit Luxuswagen auf der Straße Alt-Friedrichsfelde – Fahrer verletzt](https://d1strict.media/article/200-unfall-mit-luxuswagen-auf-der-stra%C3%9Fe-alt-friedrichsfelde-fahrer-verletzt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
