@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Brand auf Müllstandsfläche in Rummelsburg](https://d1strict.media/article/207-brand-auf-m%C3%BCllstandsfl%C3%A4che-in-rummelsburg/)
+- [Brand auf Grundstück in Seefeld – Zwei Anwohner bei Löschversuchen verletzt](https://d1strict.media/article/205-brand-auf-grundst%C3%BCck-in-seefeld-zwei-anwohner-bei-l%C3%B6schversuchen-verletzt/)
+- [Mercedes gerät in Straßenbahngleis – nächtlicher Unfall in Marzahn ohne Verletzte](https://d1strict.media/article/206-mercedes-ger%C3%A4t-in-stra%C3%9Fenbahngleis-n%C3%A4chtlicher-unfall-in-marzahn-ohne-verletzte/)
 - [Radfahrer in Marzahn attackiert – Zwei Jugendliche nach Körperverletzung festgenommen](https://d1strict.media/article/204-radfahrer-in-marzahn-attackiert-zwei-jugendliche-nach-k%C3%B6rperverletzung-festgenom/)
-- [Tödlicher Unfall auf dem Blumberger Damm: Audi prallt gegen Bäume – ein junger Mann stirbt](https://d1strict.media/article/203-t%C3%B6dlicher-unfall-auf-dem-blumberger-damm-audi-prallt-gegen-b%C3%A4ume-ein-junger-mann/)
-- [Tunnelbrand als größtes Risiko: Feuerwehr probt den Ernstfall auf der A111](https://d1strict.media/article/202-tunnelbrand-als-gr%C3%B6%C3%9Ftes-risiko-feuerwehr-probt-den-ernstfall-auf-der-a111/)
-- [Razzia in illegalem Casino in Lichtenberg: Polizei findet Waffen und Drogen](https://d1strict.media/article/199-razzia-in-illegalem-casino-in-lichtenberg-polizei-findet-waffen-und-drogen/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
