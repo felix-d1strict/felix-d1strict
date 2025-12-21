@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Wohnungsbrand im Hochhaus in Friedrichsfelde – Großeinsatz der Feuerwehr](https://d1strict.media/article/209-wohnungsbrand-im-hochhaus-in-friedrichsfelde-gro%C3%9Feinsatz-der-feuerwehr/)
-- [Fahrzeugbrand in Marzahn – Zwei Autos auf Großparkplatz beschädigt](https://d1strict.media/article/208-fahrzeugbrand-in-marzahn-zwei-autos-auf-gro%C3%9Fparkplatz-besch%C3%A4digt/)
-- [Brand auf Müllstandsfläche in Rummelsburg](https://d1strict.media/article/207-brand-auf-m%C3%BCllstandsfl%C3%A4che-in-rummelsburg/)
-- [Brand auf Grundstück in Seefeld – Zwei Anwohner bei Löschversuchen verletzt](https://d1strict.media/article/205-brand-auf-grundst%C3%BCck-in-seefeld-zwei-anwohner-bei-l%C3%B6schversuchen-verletzt/)
+- [Wohnungsbrand im Hochhaus in Friedrichsfelde – Großeinsatz der Feuerwehr](https://d1strict.media/artikel/209-wohnungsbrand-im-hochhaus-in-friedrichsfelde-gro%C3%9Feinsatz-der-feuerwehr/)
+- [Fahrzeugbrand in Marzahn – Zwei Autos auf Großparkplatz beschädigt](https://d1strict.media/artikel/208-fahrzeugbrand-in-marzahn-zwei-autos-auf-gro%C3%9Fparkplatz-besch%C3%A4digt/)
+- [Brand auf Müllstandsfläche in Rummelsburg](https://d1strict.media/artikel/207-brand-auf-m%C3%BCllstandsfl%C3%A4che-in-rummelsburg/)
+- [Brand auf Grundstück in Seefeld – Zwei Anwohner bei Löschversuchen verletzt](https://d1strict.media/artikel/205-brand-auf-grundst%C3%BCck-in-seefeld-zwei-anwohner-bei-l%C3%B6schversuchen-verletzt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
