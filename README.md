@@ -2,7 +2,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Miles-Mietwagen prallt in Wartenberg gegen Baum – zwei Verletzte](https://d1strict.media/artikel/222-miles-mietwagen-prallt-in-wartenberg-gegen-baum-zwei-verletzte/)
+- [Mietwagen prallt in Wartenberg gegen Baum – zwei Verletzte](https://d1strict.media/artikel/222-mietwagen-prallt-in-wartenberg-gegen-baum-zwei-verletzte/)
 - [Schwerer Verkehrsunfall in Marzahn – Mutter und Kind verletzt](https://d1strict.media/artikel/217-schwerer-verkehrsunfall-in-marzahn-mutter-und-kind-verletzt/)
 - [Brand in leerstehendem Gebäude in Alt-Hohenschönhausen](https://d1strict.media/artikel/215-brand-in-leerstehendem-geb%C3%A4ude-in-alt-hohensch%C3%B6nhausen/)
 - [Verkehrsunfall in Marzahn – Audi auf Mittelinsel geschleudert](https://d1strict.media/artikel/216-verkehrsunfall-in-marzahn-audi-auf-mittelinsel-geschleudert/)
