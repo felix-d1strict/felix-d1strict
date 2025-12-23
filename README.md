@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kai Wegner ruft zu Zusammenhalt und Dankbarkeit auf](https://d1strict.media/artikel/224-kai-wegner-ruft-zu-zusammenhalt-und-dankbarkeit-auf/)
 - [Zwei Brände in kurzer Folge – Wohnwagen in Karlshorst zerstört](https://d1strict.media/artikel/223-zwei-br%C3%A4nde-in-kurzer-folge-wohnwagen-in-karlshorst-zerst%C3%B6rt/)
 - [Mietwagen prallt in Wartenberg gegen Baum – zwei Verletzte](https://d1strict.media/artikel/222-mietwagen-prallt-in-wartenberg-gegen-baum-zwei-verletzte/)
 - [Schwerer Verkehrsunfall in Marzahn – Mutter und Kind verletzt](https://d1strict.media/artikel/217-schwerer-verkehrsunfall-in-marzahn-mutter-und-kind-verletzt/)
-- [Brand in leerstehendem Gebäude in Alt-Hohenschönhausen](https://d1strict.media/artikel/215-brand-in-leerstehendem-geb%C3%A4ude-in-alt-hohensch%C3%B6nhausen/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
