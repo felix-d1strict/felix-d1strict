@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwere Kollision an Heiligabend: Straßenbahn erfasst PKW auf der Wuhletalstraße](https://d1strict.media/artikel/227-schwere-kollision-an-heiligabend-stra%C3%9Fenbahn-erfasst-pkw-auf-der-wuhletalstra%C3%9Fe/)
 - [Brückentage zur Urlaubsplanung 2026 in Berlin und Brandenburg](https://d1strict.media/artikel/226-br%C3%BCckentage-zur-urlaubsplanung-2026-in-berlin-und-brandenburg/)
 - [22-jähriger Feuerwehrmann aus Bernau stirbt bei schwerem Verkehrsunfall auf der A20](https://d1strict.media/artikel/225-22-j%C3%A4hriger-feuerwehrmann-aus-bernau-stirbt-bei-schwerem-verkehrsunfall-auf-der/)
 - [Kai Wegner ruft zu Zusammenhalt und Dankbarkeit auf](https://d1strict.media/artikel/224-kai-wegner-ruft-zu-zusammenhalt-und-dankbarkeit-auf/)
-- [Zwei Brände in kurzer Folge – Wohnwagen in Karlshorst zerstört](https://d1strict.media/artikel/223-zwei-br%C3%A4nde-in-kurzer-folge-wohnwagen-in-karlshorst-zerst%C3%B6rt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
