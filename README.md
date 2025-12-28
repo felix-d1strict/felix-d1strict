@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Silvester 2025/2026: Erneute Böllerdebatte – Ärzte fordern Verbot, Berlin verschärft Regeln bis auf Bezirksebene](https://d1strict.media/artikel/230-silvester-2025-2026-erneute-b%C3%B6llerdebatte-%C3%A4rzte-fordern-verbot-berlin-versch%C3%A4rft/)
 - [Glatteis sorgt für zahlreiche Unfälle in Berlin und Brandenburg](https://d1strict.media/artikel/229-glatteis-sorgt-f%C3%BCr-zahlreiche-unf%C3%A4lle-in-berlin-und-brandenburg/)
 - [Sicher und mobil ins neue Jahr: BVG verstärkt Silvesterverkehr](https://d1strict.media/artikel/228-sicher-und-mobil-ins-neue-jahr-bvg-verst%C3%A4rkt-silvesterverkehr/)
 - [Schwere Kollision an Heiligabend: Straßenbahn erfasst PKW auf der Wuhletalstraße](https://d1strict.media/artikel/227-schwere-kollision-an-heiligabend-stra%C3%9Fenbahn-erfasst-pkw-auf-der-wuhletalstra%C3%9Fe/)
-- [Brückentage zur Urlaubsplanung 2026 in Berlin und Brandenburg](https://d1strict.media/artikel/226-br%C3%BCckentage-zur-urlaubsplanung-2026-in-berlin-und-brandenburg/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
