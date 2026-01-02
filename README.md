@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Verkehrsunfall mit Polizeifahrzeug in Biesdorf – zwei Verletzte](https://d1strict.media/artikel/233-verkehrsunfall-mit-polizeifahrzeug-in-biesdorf-zwei-verletzte/)
 - [Die Silvesternacht in Berlin - Jahreswechsel 2025/2026](https://d1strict.media/artikel/232-die-silvesternacht-in-berlin-jahreswechsel-2025-2026/)
 - [Polizist nach Großeinsatz mit Schusswaffengebrauch weiterhin im Krankenhaus](https://d1strict.media/artikel/231-polizist-nach-gro%C3%9Feinsatz-mit-schusswaffengebrauch-weiterhin-im-krankenhaus/)
 - [Silvester 2025/2026: Erneute Böllerdebatte – Ärzte fordern Verbot, Berlin verschärft Regeln bis auf Bezirksebene](https://d1strict.media/artikel/230-silvester-2025-2026-erneute-b%C3%B6llerdebatte-%C3%A4rzte-fordern-verbot-berlin-versch%C3%A4rft/)
-- [Glatteis sorgt für zahlreiche Unfälle in Berlin und Brandenburg](https://d1strict.media/artikel/229-glatteis-sorgt-f%C3%BCr-zahlreiche-unf%C3%A4lle-in-berlin-und-brandenburg/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
