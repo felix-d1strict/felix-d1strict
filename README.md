@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Bauernproteste gegen Mercosur-Abkommen: Staugefahr auf Autobahnen in Brandenburg und Norddeutschland](https://d1strict.media/artikel/236-bauernproteste-gegen-mercosur-abkommen-staugefahr-auf-autobahnen-in-brandenburg/)
 - [VBB erhöht Ticketpreise zum Jahresbeginn 2026 – Durchschnittlich plus sechs Prozent](https://d1strict.media/artikel/234-vbb-erh%C3%B6ht-ticketpreise-zum-jahresbeginn-2026-durchschnittlich-plus-sechs-prozen/)
 - [Verkehrsunfall mit Polizeifahrzeug in Biesdorf – zwei Verletzte](https://d1strict.media/artikel/233-verkehrsunfall-mit-polizeifahrzeug-in-biesdorf-zwei-verletzte/)
 - [Die Silvesternacht in Berlin - Jahreswechsel 2025/2026](https://d1strict.media/artikel/232-die-silvesternacht-in-berlin-jahreswechsel-2025-2026/)
-- [Polizist nach Großeinsatz mit Schusswaffengebrauch weiterhin im Krankenhaus](https://d1strict.media/artikel/231-polizist-nach-gro%C3%9Feinsatz-mit-schusswaffengebrauch-weiterhin-im-krankenhaus/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
