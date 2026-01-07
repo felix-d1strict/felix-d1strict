@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BSR sammelt Weihnachtsbäume ein: Abholtermine starten bald](https://d1strict.media/artikel/235-bsr-sammelt-weihnachtsb%C3%A4ume-ein-abholtermine-starten-bald/)
 - [Verkehrsunfall auf der Landsberger Chaussee: Kreuzung zeitweise gesperrt](https://d1strict.media/artikel/239-verkehrsunfall-auf-der-landsberger-chaussee-kreuzung-zeitweise-gesperrt/)
 - [Verkehrsunfall in Marzahn: Kollision auf der Märkischen Allee](https://d1strict.media/artikel/238-verkehrsunfall-in-marzahn-kollision-auf-der-m%C3%A4rkischen-allee/)
 - [Zimmerbrand in Marzahn: Eine Person verletzt](https://d1strict.media/artikel/237-zimmerbrand-in-marzahn-eine-person-verletzt/)
-- [Bauernproteste gegen Mercosur-Abkommen: Staugefahr auf Autobahnen in Brandenburg und Norddeutschland](https://d1strict.media/artikel/236-bauernproteste-gegen-mercosur-abkommen-staugefahr-auf-autobahnen-in-brandenburg/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
