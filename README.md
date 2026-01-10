@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Auffahrunfall mit drei Fahrzeugen auf der Landsberger Allee](https://d1strict.media/artikel/241-auffahrunfall-mit-drei-fahrzeugen-auf-der-landsberger-allee/)
 - [Polizei bewacht kritische Infrastruktur nach Anschlagsdrohung auf Stromversorgung in Marzahn-Hellersdorf](https://d1strict.media/artikel/240-polizei-bewacht-kritische-infrastruktur-nach-anschlagsdrohung-auf-stromversorgun/)
 - [BSR sammelt Weihnachtsbäume ein: Abholtermine starten bald](https://d1strict.media/artikel/235-bsr-sammelt-weihnachtsb%C3%A4ume-ein-abholtermine-starten-bald/)
 - [Verkehrsunfall auf der Landsberger Chaussee: Kreuzung zeitweise gesperrt](https://d1strict.media/artikel/239-verkehrsunfall-auf-der-landsberger-chaussee-kreuzung-zeitweise-gesperrt/)
-- [Verkehrsunfall in Marzahn: Kollision auf der Märkischen Allee](https://d1strict.media/artikel/238-verkehrsunfall-in-marzahn-kollision-auf-der-m%C3%A4rkischen-allee/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
