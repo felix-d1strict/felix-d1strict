@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rettungswagen kollidiert mit Pkw an Kreuzung in Mahlsdorf](https://d1strict.media/artikel/242-rettungswagen-kollidiert-mit-pkw-an-kreuzung-in-mahlsdorf/)
 - [Auffahrunfall mit drei Fahrzeugen auf der Landsberger Allee](https://d1strict.media/artikel/241-auffahrunfall-mit-drei-fahrzeugen-auf-der-landsberger-allee/)
 - [Polizei bewacht kritische Infrastruktur nach Anschlagsdrohung auf Stromversorgung in Marzahn-Hellersdorf](https://d1strict.media/artikel/240-polizei-bewacht-kritische-infrastruktur-nach-anschlagsdrohung-auf-stromversorgun/)
 - [BSR sammelt Weihnachtsbäume ein: Abholtermine starten bald](https://d1strict.media/artikel/235-bsr-sammelt-weihnachtsb%C3%A4ume-ein-abholtermine-starten-bald/)
-- [Verkehrsunfall auf der Landsberger Chaussee: Kreuzung zeitweise gesperrt](https://d1strict.media/artikel/239-verkehrsunfall-auf-der-landsberger-chaussee-kreuzung-zeitweise-gesperrt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
