@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Sinkendes Boot und unklare Lage auf zugefrorenem Rummelsburger See](https://d1strict.media/artikel/244-sinkendes-boot-und-unklare-lage-auf-zugefrorenem-rummelsburger-see/)
 - [Zwei Feuer in kurzer Zeit in Friedrichshain – Polizei prüft Zusammenhang](https://d1strict.media/artikel/243-zwei-feuer-in-kurzer-zeit-in-friedrichshain-polizei-pr%C3%BCft-zusammenhang/)
 - [Rettungswagen kollidiert mit Pkw an Kreuzung in Mahlsdorf](https://d1strict.media/artikel/242-rettungswagen-kollidiert-mit-pkw-an-kreuzung-in-mahlsdorf/)
 - [Auffahrunfall mit drei Fahrzeugen auf der Landsberger Allee](https://d1strict.media/artikel/241-auffahrunfall-mit-drei-fahrzeugen-auf-der-landsberger-allee/)
-- [Polizei bewacht kritische Infrastruktur nach Anschlagsdrohung auf Stromversorgung in Marzahn-Hellersdorf](https://d1strict.media/artikel/240-polizei-bewacht-kritische-infrastruktur-nach-anschlagsdrohung-auf-stromversorgun/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
