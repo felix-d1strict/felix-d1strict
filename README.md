@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Brand an Hochhaus in der Mehrower Allee – Illegal abgelagerter Unrat in Flammen](https://d1strict.media/artikel/248-brand-an-hochhaus-in-der-mehrower-allee-illegal-abgelagerter-unrat-in-flammen/)
 - [PKW kollidiert an Bushaltestelle mit Linienbus in Marzahn – keine Verletzten](https://d1strict.media/artikel/247-pkw-kollidiert-an-bushaltestelle-mit-linienbus-in-marzahn-keine-verletzten/)
 - [Tragischer Unfall in Kita in Niederschöneweide – Kind verstirbt trotz Rettungsversuchs](https://d1strict.media/artikel/246-tragischer-unfall-in-kita-in-niedersch%C3%B6neweide-kind-verstirbt-trotz-rettungsvers/)
 - [Verkehrsunfall an der Landsberger Allee sorgt für Sperrung stadtauswärts](https://d1strict.media/artikel/245-verkehrsunfall-an-der-landsberger-allee-sorgt-f%C3%BCr-sperrung-stadtausw%C3%A4rts/)
-- [Sinkendes Boot und unklare Lage auf zugefrorenem Rummelsburger See](https://d1strict.media/artikel/244-sinkendes-boot-und-unklare-lage-auf-zugefrorenem-rummelsburger-see/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
