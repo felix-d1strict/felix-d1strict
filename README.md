@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PKW kollidiert an Bushaltestelle mit Linienbus in Marzahn – keine Verletzten](https://d1strict.media/artikel/247-pkw-kollidiert-an-bushaltestelle-mit-linienbus-in-marzahn-keine-verletzten/)
 - [Tragischer Unfall in Kita in Niederschöneweide – Kind verstirbt trotz Rettungsversuchs](https://d1strict.media/artikel/246-tragischer-unfall-in-kita-in-niedersch%C3%B6neweide-kind-verstirbt-trotz-rettungsvers/)
 - [Verkehrsunfall an der Landsberger Allee sorgt für Sperrung stadtauswärts](https://d1strict.media/artikel/245-verkehrsunfall-an-der-landsberger-allee-sorgt-f%C3%BCr-sperrung-stadtausw%C3%A4rts/)
 - [Sinkendes Boot und unklare Lage auf zugefrorenem Rummelsburger See](https://d1strict.media/artikel/244-sinkendes-boot-und-unklare-lage-auf-zugefrorenem-rummelsburger-see/)
-- [Zwei Feuer in kurzer Zeit in Friedrichshain – Polizei prüft Zusammenhang](https://d1strict.media/artikel/243-zwei-feuer-in-kurzer-zeit-in-friedrichshain-polizei-pr%C3%BCft-zusammenhang/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
