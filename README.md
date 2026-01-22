@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Großbrand auf dem Bogensee-Areal: Denkmalgeschütztes Hauptgebäude schwer beschädigt](https://d1strict.media/artikel/249-gro%C3%9Fbrand-auf-dem-bogensee-areal-denkmalgesch%C3%BCtztes-hauptgeb%C3%A4ude-schwer-besch%C3%A4di/)
 - [Fahrer stirbt bei Kollision mit einem Baum bei Ahrensfelde](https://d1strict.media/artikel/250-fahrer-stirbt-bei-kollision-mit-einem-baum-bei-ahrensfelde/)
 - [Brand an Hochhaus in der Mehrower Allee – Illegal abgelagerter Unrat in Flammen](https://d1strict.media/artikel/248-brand-an-hochhaus-in-der-mehrower-allee-illegal-abgelagerter-unrat-in-flammen/)
 - [PKW kollidiert an Bushaltestelle mit Linienbus in Marzahn – keine Verletzten](https://d1strict.media/artikel/247-pkw-kollidiert-an-bushaltestelle-mit-linienbus-in-marzahn-keine-verletzten/)
-- [Tragischer Unfall in Kita in Niederschöneweide – Kind verstirbt trotz Rettungsversuchs](https://d1strict.media/artikel/246-tragischer-unfall-in-kita-in-niedersch%C3%B6neweide-kind-verstirbt-trotz-rettungsvers/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
