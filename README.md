@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Laubenbrand in Kleingartenanlage in Baumschulenweg](https://d1strict.media/artikel/252-laubenbrand-in-kleingartenanlage-in-baumschulenweg/)
 - [Brand an Abfallcontainer in Berlin-Hellersdorf – Feuerwehr verhindert größeren Schaden](https://d1strict.media/artikel/251-brand-an-abfallcontainer-in-berlin-hellersdorf-feuerwehr-verhindert-gr%C3%B6%C3%9Feren-sch/)
 - [Großbrand auf dem Bogensee-Areal: Denkmalgeschütztes Hauptgebäude schwer beschädigt](https://d1strict.media/artikel/249-gro%C3%9Fbrand-auf-dem-bogensee-areal-denkmalgesch%C3%BCtztes-hauptgeb%C3%A4ude-schwer-besch%C3%A4di/)
 - [Fahrer &lpar;76&rpar; stirbt bei Kollision mit einem Baum bei Ahrensfelde](https://d1strict.media/artikel/250-fahrer-76-stirbt-bei-kollision-mit-einem-baum-bei-ahrensfelde/)
-- [Brand an Hochhaus in der Mehrower Allee – Illegal abgelagerter Unrat in Flammen](https://d1strict.media/artikel/248-brand-an-hochhaus-in-der-mehrower-allee-illegal-abgelagerter-unrat-in-flammen/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
