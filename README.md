@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Alkoholisierter Fahrer nach Unfall in Neukölln festgenommen](https://d1strict.media/artikel/256-alkoholisierter-fahrer-nach-unfall-in-neuk%C3%B6lln-festgenommen/)
 - [Wohnungsbrand in Neukölln: Anwohner bei Minusgraden evakuiert](https://d1strict.media/artikel/255-wohnungsbrand-in-neuk%C3%B6lln-anwohner-bei-minusgraden-evakuiert/)
 - [BBG stellt neuen Rettungsbus in Dienst: Moderner Lebensretter auf Rädern für Barnim](https://d1strict.media/artikel/254-bbg-stellt-neuen-rettungsbus-in-dienst-moderner-lebensretter-auf-r%C3%A4dern-f%C3%BCr-barn/)
 - [Fahrerflucht nach Kollision in Lichtenberg: Polizei findet Penis-Attrappe](https://d1strict.media/artikel/253-fahrerflucht-nach-kollision-in-lichtenberg-polizei-findet-penis-attrappe/)
-- [Laubenbrand in Kleingartenanlage in Baumschulenweg](https://d1strict.media/artikel/252-laubenbrand-in-kleingartenanlage-in-baumschulenweg/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
