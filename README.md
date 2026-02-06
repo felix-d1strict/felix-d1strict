@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Randalierer im Freizeitforum Marzahn löst Großeinsatz – Verfolgungsfahrt bis Friedrichshain](https://d1strict.media/artikel/258-randalierer-im-freizeitforum-marzahn-l%C3%B6st-gro%C3%9Feinsatz-verfolgungsfahrt-bis-fried/)
 - [21-Jähriger stirbt nach Gewalttat in Mahlsdorf – Tatverdächtiger festgenommen](https://d1strict.media/artikel/257-21-j%C3%A4hriger-stirbt-nach-gewalttat-in-mahlsdorf-tatverd%C3%A4chtiger-festgenommen/)
 - [Alkoholisierter Fahrer nach Kollision in Neukölln festgenommen](https://d1strict.media/artikel/256-alkoholisierter-fahrer-nach-kollision-in-neuk%C3%B6lln-festgenommen/)
 - [Wohnungsbrand in Neukölln: Anwohner bei Minusgraden evakuiert](https://d1strict.media/artikel/255-wohnungsbrand-in-neuk%C3%B6lln-anwohner-bei-minusgraden-evakuiert/)
-- [BBG stellt neuen Rettungsbus in Dienst: Moderner Lebensretter auf Rädern für Barnim](https://d1strict.media/artikel/254-bbg-stellt-neuen-rettungsbus-in-dienst-moderner-lebensretter-auf-r%C3%A4dern-f%C3%BCr-barn/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
