@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schüsse auf Shisha-Bar in Berlin-Wedding – Gast durch Glassplitter verletzt](https://d1strict.media/artikel/261-sch%C3%BCsse-auf-shisha-bar-in-berlin-wedding-gast-durch-glassplitter-verletzt/)
 - [Pflegedienst-Fahrzeug landet im Straßenbahngleis – Verkehr zeitweise unterbrochen](https://d1strict.media/artikel/260-pflegedienst-fahrzeug-landet-im-stra%C3%9Fenbahngleis-verkehr-zeitweise-unterbrochen/)
 - [Erneut Abfallcontainer in Hellersdorf in Brand](https://d1strict.media/artikel/259-erneut-abfallcontainer-in-hellersdorf-in-brand/)
 - [Randalierer im Freizeitforum Marzahn löst Großeinsatz – Verfolgungsfahrt bis Friedrichshain](https://d1strict.media/artikel/258-randalierer-im-freizeitforum-marzahn-l%C3%B6st-gro%C3%9Feinsatz-verfolgungsfahrt-bis-fried/)
-- [21-Jähriger stirbt nach Gewalttat in Mahlsdorf – Tatverdächtiger festgenommen](https://d1strict.media/artikel/257-21-j%C3%A4hriger-stirbt-nach-gewalttat-in-mahlsdorf-tatverd%C3%A4chtiger-festgenommen/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
