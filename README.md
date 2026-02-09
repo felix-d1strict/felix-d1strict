@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stromausfall in Karlshorst](https://d1strict.media/artikel/263-stromausfall-in-karlshorst/)
 - [Leblose Frau in Alt-Hohenschönhausen gefunden – Polizei ermittelt wegen Tötungsdelikts](https://d1strict.media/artikel/262-leblose-frau-in-alt-hohensch%C3%B6nhausen-gefunden-polizei-ermittelt-wegen-t%C3%B6tungsdel/)
 - [Schüsse auf Shisha-Bar in Berlin-Wedding – Gast durch Glassplitter verletzt](https://d1strict.media/artikel/261-sch%C3%BCsse-auf-shisha-bar-in-berlin-wedding-gast-durch-glassplitter-verletzt/)
 - [Pflegedienst-Fahrzeug landet im Straßenbahngleis – Verkehr zeitweise unterbrochen](https://d1strict.media/artikel/260-pflegedienst-fahrzeug-landet-im-stra%C3%9Fenbahngleis-verkehr-zeitweise-unterbrochen/)
-- [Erneut Abfallcontainer in Hellersdorf in Brand](https://d1strict.media/artikel/259-erneut-abfallcontainer-in-hellersdorf-in-brand/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
