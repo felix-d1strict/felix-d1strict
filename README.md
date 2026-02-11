@@ -2,7 +2,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Wohnungsbrand im 15. Obergeschoss in Lichtenberg](https://d1strict.media/artikel/264-wohnungsbrand-im-15-obergeschoss-in-lichtenberg/)
+- [Wohnungsbrand im 16. Obergeschoss in Lichtenberg](https://d1strict.media/artikel/264-wohnungsbrand-im-16-obergeschoss-in-lichtenberg/)
 - [Stromausfall in Karlshorst](https://d1strict.media/artikel/263-stromausfall-in-karlshorst/)
 - [Leblose Frau in Alt-Hohenschönhausen gefunden – Polizei ermittelt wegen Tötungsdelikts](https://d1strict.media/artikel/262-leblose-frau-in-alt-hohensch%C3%B6nhausen-gefunden-polizei-ermittelt-wegen-t%C3%B6tungsdel/)
 - [Schüsse auf Shisha-Bar in Berlin-Wedding – Gast durch Glassplitter verletzt](https://d1strict.media/artikel/261-sch%C3%BCsse-auf-shisha-bar-in-berlin-wedding-gast-durch-glassplitter-verletzt/)
