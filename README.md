@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Wohnungsbrand im Hochhaus: Kind stirbt nach Reanimation – 70 Menschen gerettet](https://d1strict.media/artikel/267-wohnungsbrand-im-hochhaus-kind-stirbt-nach-reanimation-70-menschen-gerettet/)
 - [Kollision mit Straßenbahn in Alt-Hohenschönhausen – Fahrerflucht!](https://d1strict.media/artikel/265-kollision-mit-stra%C3%9Fenbahn-in-alt-hohensch%C3%B6nhausen-fahrerflucht/)
 - [Wohnungsbrand im 16. Obergeschoss in Lichtenberg](https://d1strict.media/artikel/264-wohnungsbrand-im-16-obergeschoss-in-lichtenberg/)
 - [Stromausfall in Karlshorst](https://d1strict.media/artikel/263-stromausfall-in-karlshorst/)
-- [Leblose Frau in Alt-Hohenschönhausen gefunden – Polizei ermittelt wegen Tötungsdelikts](https://d1strict.media/artikel/262-leblose-frau-in-alt-hohensch%C3%B6nhausen-gefunden-polizei-ermittelt-wegen-t%C3%B6tungsdel/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
