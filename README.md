@@ -3,7 +3,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Schwere Kollision in Hellersdorf: PKW prallt auf LKW-Auflieger – Frau erliegt Verletzungen](https://d1strict.media/artikel/268-schwere-kollision-in-hellersdorf-pkw-prallt-auf-lkw-auflieger-frau-erliegt-verle/)
-- [Wohnungsbrand im Hochhaus: Kind stirbt nach Reanimation – 70 Menschen gerettet](https://d1strict.media/artikel/267-wohnungsbrand-im-hochhaus-kind-stirbt-nach-reanimation-70-menschen-gerettet/)
+- [Wohnungsbrand im Hochhaus: 3 Menschen sterben – 70 Menschen gerettet](https://d1strict.media/artikel/267-wohnungsbrand-im-hochhaus-3-menschen-sterben-70-menschen-gerettet/)
 - [Erneut Containerbrände in Hellersdorf – Feuerwehr rückt zweimal aus](https://d1strict.media/artikel/266-erneut-containerbr%C3%A4nde-in-hellersdorf-feuerwehr-r%C3%BCckt-zweimal-aus/)
 - [Kollision mit Straßenbahn in Alt-Hohenschönhausen – Fahrerflucht!](https://d1strict.media/artikel/265-kollision-mit-stra%C3%9Fenbahn-in-alt-hohensch%C3%B6nhausen-fahrerflucht/)
 <!-- BLOG-POST-LIST:END -->
