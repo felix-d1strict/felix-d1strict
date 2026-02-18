@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Frühjahrs-Spülungen im Leitungsnetz: Wartung sichert hohe Trinkwasserqualität](https://d1strict.media/artikel/273-fr%C3%BChjahrs-sp%C3%BClungen-im-leitungsnetz-wartung-sichert-hohe-trinkwasserqualit%C3%A4t/)
 - [Rotlicht missachtet? - PKW erfasst Frau &lpar;37&rpar; und Kind &lpar;4&rpar;](https://d1strict.media/artikel/272-rotlicht-missachtet-pkw-erfasst-frau-37-und-kind-4/)
 - [Verkehrsunfall mit Feuerwehr-Fahrzeug in Marzahn](https://d1strict.media/artikel/271-verkehrsunfall-mit-feuerwehr-fahrzeug-in-marzahn/)
 - [Schwer verletzter Mann in Hellersdorf entdeckt – Polizei ermittelt wegen möglicher Gewalttat](https://d1strict.media/artikel/270-schwer-verletzter-mann-in-hellersdorf-entdeckt-polizei-ermittelt-wegen-m%C3%B6glicher/)
-- [Kollision zwischen PKW und Straßenbahn in Marzahn – Zwei Verletzte](https://d1strict.media/artikel/269-kollision-zwischen-pkw-und-stra%C3%9Fenbahn-in-marzahn-zwei-verletzte/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
