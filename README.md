@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Gewalttätige Auseinandersetzung im Forum Kienberg – Frau nach Stuhlschlag bewusstlos](https://d1strict.media/artikel/275-gewaltt%C3%A4tige-auseinandersetzung-im-forum-kienberg-frau-nach-stuhlschlag-bewusstl/)
 - [Trunkenheitsfahrt in Woltersdorf: Sprinter prallt gegen Transporter und Baum](https://d1strict.media/artikel/274-trunkenheitsfahrt-in-woltersdorf-sprinter-prallt-gegen-transporter-und-baum/)
 - [Auf Beutezug durch unverschlossene Fahrzeuge? Zwei Jugendliche festgenommen](https://d1strict.media/artikel/276-auf-beutezug-durch-unverschlossene-fahrzeuge-zwei-jugendliche-festgenommen/)
 - [Erneut brennen Abfallcontainer in Hellersdorf – Feuerwehr muss Zugang gewaltsam öffnen](https://d1strict.media/artikel/277-erneut-brennen-abfallcontainer-in-hellersdorf-feuerwehr-muss-zugang-gewaltsam-%C3%B6f/)
-- [Frühjahrs-Spülungen im Leitungsnetz: Wartung sichert hohe Trinkwasserqualität](https://d1strict.media/artikel/273-fr%C3%BChjahrs-sp%C3%BClungen-im-leitungsnetz-wartung-sichert-hohe-trinkwasserqualit%C3%A4t/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
