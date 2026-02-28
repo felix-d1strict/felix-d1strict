@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwerer Gewaltvorfall in Blumberg: Jäger-Paar nach Frontalzusammenstoß verfolgt &amp; bedroht](https://d1strict.media/artikel/281-schwerer-gewaltvorfall-in-blumberg-j%C3%A4ger-paar-nach-frontalzusammensto%C3%9F-verfolgt/)
+- [Drogentaxi in Marzahn gestoppt – Polizei findet Drogen, QR-Code-Flyer und Bargeld](https://d1strict.media/artikel/280-drogentaxi-in-marzahn-gestoppt-polizei-findet-drogen-qr-code-flyer-und-bargeld/)
 - [Fahrzeugbrand auf Discounter-Parkplatz in Hellersdorf – Auto steht in Flammen](https://d1strict.media/artikel/279-fahrzeugbrand-auf-discounter-parkplatz-in-hellersdorf-auto-steht-in-flammen/)
 - [Gefährliche Körperverletzung in Lichtenberg – Polizei durchsucht erneut Lokal](https://d1strict.media/artikel/278-gef%C3%A4hrliche-k%C3%B6rperverletzung-in-lichtenberg-polizei-durchsucht-erneut-lokal/)
-- [Gewalttätige Auseinandersetzung im Forum Kienberg – Frau nach Stuhlschlag bewusstlos](https://d1strict.media/artikel/275-gewaltt%C3%A4tige-auseinandersetzung-im-forum-kienberg-frau-nach-stuhlschlag-bewusstl/)
-- [Trunkenheitsfahrt in Woltersdorf: Sprinter prallt gegen Transporter und Baum](https://d1strict.media/artikel/274-trunkenheitsfahrt-in-woltersdorf-sprinter-prallt-gegen-transporter-und-baum/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
