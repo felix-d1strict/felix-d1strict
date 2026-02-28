@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fahrzeugbrand auf Discounter-Parkplatz in Hellersdorf – Auto steht in Flammen](https://d1strict.media/artikel/279-fahrzeugbrand-auf-discounter-parkplatz-in-hellersdorf-auto-steht-in-flammen/)
+- [Gefährliche Körperverletzung in Lichtenberg – Polizei durchsucht erneut Lokal](https://d1strict.media/artikel/278-gef%C3%A4hrliche-k%C3%B6rperverletzung-in-lichtenberg-polizei-durchsucht-erneut-lokal/)
 - [Gewalttätige Auseinandersetzung im Forum Kienberg – Frau nach Stuhlschlag bewusstlos](https://d1strict.media/artikel/275-gewaltt%C3%A4tige-auseinandersetzung-im-forum-kienberg-frau-nach-stuhlschlag-bewusstl/)
 - [Trunkenheitsfahrt in Woltersdorf: Sprinter prallt gegen Transporter und Baum](https://d1strict.media/artikel/274-trunkenheitsfahrt-in-woltersdorf-sprinter-prallt-gegen-transporter-und-baum/)
-- [Auf Beutezug durch unverschlossene Fahrzeuge? Zwei Jugendliche festgenommen](https://d1strict.media/artikel/276-auf-beutezug-durch-unverschlossene-fahrzeuge-zwei-jugendliche-festgenommen/)
-- [Erneut brennen Abfallcontainer in Hellersdorf – Feuerwehr muss Zugang gewaltsam öffnen](https://d1strict.media/artikel/277-erneut-brennen-abfallcontainer-in-hellersdorf-feuerwehr-muss-zugang-gewaltsam-%C3%B6f/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
