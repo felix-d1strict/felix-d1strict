@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Schwerer Gewaltvorfall in Blumberg: Jäger-Paar nach Frontalzusammenstoß verfolgt &amp; bedroht](https://d1strict.media/artikel/281-schwerer-gewaltvorfall-in-blumberg-j%C3%A4ger-paar-nach-frontalzusammensto%C3%9F-verfolgt/)
-- [Drogentaxi in Marzahn gestoppt – Polizei findet Drogen, QR-Code-Flyer und Bargeld](https://d1strict.media/artikel/280-drogentaxi-in-marzahn-gestoppt-polizei-findet-drogen-qr-code-flyer-und-bargeld/)
-- [Fahrzeugbrand auf Discounter-Parkplatz in Hellersdorf – Auto steht in Flammen](https://d1strict.media/artikel/279-fahrzeugbrand-auf-discounter-parkplatz-in-hellersdorf-auto-steht-in-flammen/)
-- [Gefährliche Körperverletzung in Lichtenberg – Polizei durchsucht erneut Lokal](https://d1strict.media/artikel/278-gef%C3%A4hrliche-k%C3%B6rperverletzung-in-lichtenberg-polizei-durchsucht-erneut-lokal/)
+- [Kellerbrand in Hellersdorf: Feuerwehr rettet drei Bewohner aus verrauchten Treppenhaus](https://d1strict.media/artikel/285-kellerbrand-in-hellersdorf-feuerwehr-rettet-drei-bewohner-aus-verrauchten-treppe/)
+- [Motorrad prallt auf Renault – Biker bei Unfall auf der Landsberger Allee verletzt](https://d1strict.media/artikel/284-motorrad-prallt-auf-renault-biker-bei-unfall-auf-der-landsberger-allee-verletzt/)
+- [Einbruch auf Gelände eines Werttransportunternehmens in Lichtenberg](https://d1strict.media/artikel/283-einbruch-auf-gel%C3%A4nde-eines-werttransportunternehmens-in-lichtenberg/)
+- [Verpuffung und Brand in Wohnung in Berlin-Marzahn](https://d1strict.media/artikel/282-verpuffung-und-brand-in-wohnung-in-berlin-marzahn/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
