@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwerer Verkehrsunfall in Marzahn: Auto überschlägt sich an Kreuzung](https://d1strict.media/artikel/286-schwerer-verkehrsunfall-in-marzahn-auto-%C3%BCberschl%C3%A4gt-sich-an-kreuzung/)
 - [Kellerbrand in Hellersdorf: Feuerwehr rettet drei Bewohner aus verrauchten Treppenhaus](https://d1strict.media/artikel/285-kellerbrand-in-hellersdorf-feuerwehr-rettet-drei-bewohner-aus-verrauchten-treppe/)
 - [Motorrad prallt auf Renault – Biker bei Unfall auf der Landsberger Allee verletzt](https://d1strict.media/artikel/284-motorrad-prallt-auf-renault-biker-bei-unfall-auf-der-landsberger-allee-verletzt/)
 - [Einbruch auf Gelände eines Werttransportunternehmens in Lichtenberg](https://d1strict.media/artikel/283-einbruch-auf-gel%C3%A4nde-eines-werttransportunternehmens-in-lichtenberg/)
-- [Verpuffung und Brand in Wohnung in Berlin-Marzahn](https://d1strict.media/artikel/282-verpuffung-und-brand-in-wohnung-in-berlin-marzahn/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
