@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Messerangriff in Alt-Marzahn: Großeinsatz von Polizei und Feuerwehr](https://d1strict.media/artikel/288-messerangriff-in-alt-marzahn-gro%C3%9Feinsatz-von-polizei-und-feuerwehr/)
-- [Kollision in Berlin-Weißensee: Zwei Verletzte nach Zusammenstoß](https://d1strict.media/artikel/287-kollision-in-berlin-wei%C3%9Fensee-zwei-verletzte-nach-zusammensto%C3%9F/)
-- [Schwerer Verkehrsunfall in Marzahn: Auto überschlägt sich an Kreuzung](https://d1strict.media/artikel/286-schwerer-verkehrsunfall-in-marzahn-auto-%C3%BCberschl%C3%A4gt-sich-an-kreuzung/)
-- [Kellerbrand in Hellersdorf: Feuerwehr rettet drei Bewohner aus verrauchten Treppenhaus](https://d1strict.media/artikel/285-kellerbrand-in-hellersdorf-feuerwehr-rettet-drei-bewohner-aus-verrauchten-treppe/)
+- [Wohnungsbrand im Hinterhaus in Neukölln – Bewohner verletzt ins Krankenhaus](https://d1strict.media/artikel/297-wohnungsbrand-im-hinterhaus-in-neuk%C3%B6lln-bewohner-verletzt-ins-krankenhaus/)
+- [Schwere Kollision in Ahrensfelde: Auto prallt gegen Laterne und Baum – drei Männer verletzt](https://d1strict.media/artikel/296-schwere-kollision-in-ahrensfelde-auto-prallt-gegen-laterne-und-baum-drei-m%C3%A4nner/)
+- [Autofahrt ohne Führerschein endet in Polizeikontrolle – Eigentümer sucht Wagen nachts auf der Straße](https://d1strict.media/artikel/295-autofahrt-ohne-f%C3%BChrerschein-endet-in-polizeikontrolle-eigent%C3%BCmer-sucht-wagen-nac/)
+- [Müllcontainer brennt in Marzahn – Feuerwehr verhindert größere Ausbreitung](https://d1strict.media/artikel/294-m%C3%BCllcontainer-brennt-in-marzahn-feuerwehr-verhindert-gr%C3%B6%C3%9Fere-ausbreitung/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
