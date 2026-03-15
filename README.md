@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwere Kollision mit Bus im Gewerbegebiet Schönow – Fahrer stirbt im Krankenhaus](https://d1strict.media/artikel/298-schwere-kollision-mit-bus-im-gewerbegebiet-sch%C3%B6now-fahrer-stirbt-im-krankenhaus/)
 - [Wohnungsbrand im Hinterhaus in Neukölln – Bewohner verletzt ins Krankenhaus](https://d1strict.media/artikel/297-wohnungsbrand-im-hinterhaus-in-neuk%C3%B6lln-bewohner-verletzt-ins-krankenhaus/)
 - [Schwere Kollision in Ahrensfelde: Auto prallt gegen Laterne und Baum – drei Männer verletzt](https://d1strict.media/artikel/296-schwere-kollision-in-ahrensfelde-auto-prallt-gegen-laterne-und-baum-drei-m%C3%A4nner/)
 - [Autofahrt ohne Führerschein endet in Polizeikontrolle – Eigentümer sucht Wagen nachts auf der Straße](https://d1strict.media/artikel/295-autofahrt-ohne-f%C3%BChrerschein-endet-in-polizeikontrolle-eigent%C3%BCmer-sucht-wagen-nac/)
-- [Müllcontainer brennt in Marzahn – Feuerwehr verhindert größere Ausbreitung](https://d1strict.media/artikel/294-m%C3%BCllcontainer-brennt-in-marzahn-feuerwehr-verhindert-gr%C3%B6%C3%9Fere-ausbreitung/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
