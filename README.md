@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Polizei durchsucht Gebäude nach Messerangriff in Grünau](https://d1strict.media/artikel/300-polizei-durchsucht-geb%C3%A4ude-nach-messerangriff-in-gr%C3%BCnau/)
 - [Saisonstart der Seilbahn: Berlins luftiges Highlight hebt wieder ab](https://d1strict.media/artikel/299-saisonstart-der-seilbahn-berlins-luftiges-highlight-hebt-wieder-ab/)
 - [Schwere Kollision mit Bus im Gewerbegebiet Schönow – Fahrer stirbt im Krankenhaus](https://d1strict.media/artikel/298-schwere-kollision-mit-bus-im-gewerbegebiet-sch%C3%B6now-fahrer-stirbt-im-krankenhaus/)
 - [Wohnungsbrand im Hinterhaus in Neukölln – Bewohner verletzt ins Krankenhaus](https://d1strict.media/artikel/297-wohnungsbrand-im-hinterhaus-in-neuk%C3%B6lln-bewohner-verletzt-ins-krankenhaus/)
-- [Schwere Kollision in Ahrensfelde: Auto prallt gegen Laterne und Baum – drei Männer verletzt](https://d1strict.media/artikel/296-schwere-kollision-in-ahrensfelde-auto-prallt-gegen-laterne-und-baum-drei-m%C3%A4nner/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
