@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kollision auf der Landsberger Allee: Straßenbahn rammt PKW in Marzahn](https://d1strict.media/artikel/302-kollision-auf-der-landsberger-allee-stra%C3%9Fenbahn-rammt-pkw-in-marzahn/)
 - [SUV kollidiert mit BVG-Haltestelle in Hellersdorf](https://d1strict.media/artikel/301-suv-kollidiert-mit-bvg-haltestelle-in-hellersdorf/)
 - [Polizei durchsucht Gebäude nach Messerangriff in Grünau](https://d1strict.media/artikel/300-polizei-durchsucht-geb%C3%A4ude-nach-messerangriff-in-gr%C3%BCnau/)
 - [Saisonstart der Seilbahn: Berlins luftiges Highlight hebt wieder ab](https://d1strict.media/artikel/299-saisonstart-der-seilbahn-berlins-luftiges-highlight-hebt-wieder-ab/)
-- [Schwere Kollision mit Bus im Gewerbegebiet Schönow – Fahrer stirbt im Krankenhaus](https://d1strict.media/artikel/298-schwere-kollision-mit-bus-im-gewerbegebiet-sch%C3%B6now-fahrer-stirbt-im-krankenhaus/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
