@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tödliche Messerattacke in Strausberg: 44-Jähriger stirbt nach Angriff](https://d1strict.media/artikel/307-t%C3%B6dliche-messerattacke-in-strausberg-44-j%C3%A4hriger-stirbt-nach-angriff/)
+- [Rotlicht missachtet? Auto kollidiert mit Straßenbahn in Berlin-Lichtenberg](https://d1strict.media/artikel/306-rotlicht-missachtet-auto-kollidiert-mit-stra%C3%9Fenbahn-in-berlin-lichtenberg/)
+- [Tödlicher Rollersturz in Lichtenberg – 50-Jährige stirbt trotz stundenlanger Reanimation](https://d1strict.media/artikel/305-t%C3%B6dlicher-rollersturz-in-lichtenberg-50-j%C3%A4hrige-stirbt-trotz-stundenlanger-reani/)
 - [Trunkenheitsfahrt und Unfall mit Ape - Sohn schlägt Scheibe von Polizeifahrzeug ein](https://d1strict.media/artikel/304-trunkenheitsfahrt-und-unfall-mit-ape-sohn-schl%C3%A4gt-scheibe-von-polizeifahrzeug-ei/)
-- [Bewaffnete Bedrohung in Hellersdorf: SEK überwältigt alkoholisierten Mieter](https://d1strict.media/artikel/303-bewaffnete-bedrohung-in-hellersdorf-sek-%C3%BCberw%C3%A4ltigt-alkoholisierten-mieter/)
-- [Kollision auf der Landsberger Allee: Straßenbahn rammt PKW in Marzahn](https://d1strict.media/artikel/302-kollision-auf-der-landsberger-allee-stra%C3%9Fenbahn-rammt-pkw-in-marzahn/)
-- [SUV kollidiert mit BVG-Haltestelle in Hellersdorf](https://d1strict.media/artikel/301-suv-kollidiert-mit-bvg-haltestelle-in-hellersdorf/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
