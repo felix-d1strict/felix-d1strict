@@ -2,7 +2,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Diebesbande in Marzahn festgenommen](https://d1strict.media/artikel/314-diebesbande-in-marzahn-festgenommen/)
+- [Mutmaßliche Diebesbande in Marzahn festgenommen](https://d1strict.media/artikel/314-mutma%C3%9Fliche-diebesbande-in-marzahn-festgenommen/)
 - [Massenschlägerei bei Derby in Hellersdorf – Polizei rückt mit Großaufgebot an](https://d1strict.media/artikel/313-massenschl%C3%A4gerei-bei-derby-in-hellersdorf-polizei-r%C3%BCckt-mit-gro%C3%9Faufgebot-an/)
 - [Auto landet im Gleisbett – Fahrerlaubnis entzogen](https://d1strict.media/artikel/312-auto-landet-im-gleisbett-fahrerlaubnis-entzogen/)
 - [Clan-Streit eskaliert nach Boxkampf am Velodrom – Acht Verletzte, darunter ein Kind](https://d1strict.media/artikel/311-clan-streit-eskaliert-nach-boxkampf-am-velodrom-acht-verletzte-darunter-ein-kind/)
