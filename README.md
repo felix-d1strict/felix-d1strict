@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Balkonbrand in Friedrichsfelde – Feuerwehr verhindert Ausbreitung](https://d1strict.media/artikel/318-balkonbrand-in-friedrichsfelde-feuerwehr-verhindert-ausbreitung/)
 - [Steinwürfe bei Feuerwehreinsatz in der Rigaer Straße – Polizist am Auge verletzt](https://d1strict.media/artikel/317-steinw%C3%BCrfe-bei-feuerwehreinsatz-in-der-rigaer-stra%C3%9Fe-polizist-am-auge-verletzt/)
 - [Balkonbrand in Neukölln: Feuerwehr löscht Flammen auf Balkon](https://d1strict.media/artikel/316-balkonbrand-in-neuk%C3%B6lln-feuerwehr-l%C3%B6scht-flammen-auf-balkon/)
 - [Maskierte stürmen Jugendhaus in Marzahn – 15 Kinder durch Reizgas verletzt](https://d1strict.media/artikel/315-maskierte-st%C3%BCrmen-jugendhaus-in-marzahn-15-kinder-durch-reizgas-verletzt/)
-- [Mutmaßliche Diebesbande in Marzahn festgenommen](https://d1strict.media/artikel/314-mutma%C3%9Fliche-diebesbande-in-marzahn-festgenommen/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
