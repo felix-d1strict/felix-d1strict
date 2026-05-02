@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Parkscheinautomat in Tempelhof gesprengt](https://d1strict.media/artikel/323-parkscheinautomat-in-tempelhof-gesprengt/)
 - [Zwei Autos in Marzahn ausgebrannt](https://d1strict.media/artikel/322-zwei-autos-in-marzahn-ausgebrannt/)
 - [E-Scooter von Brücke auf Berliner Stadtautobahn geworfen – Mordkommission bittet um Hinweise](https://d1strict.media/artikel/319-e-scooter-von-br%C3%BCcke-auf-berliner-stadtautobahn-geworfen-mordkommission-bittet-u/)
 - [Balkonbrand in Friedrichsfelde – Feuerwehr verhindert Ausbreitung](https://d1strict.media/artikel/318-balkonbrand-in-friedrichsfelde-feuerwehr-verhindert-ausbreitung/)
-- [Steinwürfe bei Feuerwehreinsatz in der Rigaer Straße – Polizist am Auge verletzt](https://d1strict.media/artikel/317-steinw%C3%BCrfe-bei-feuerwehreinsatz-in-der-rigaer-stra%C3%9Fe-polizist-am-auge-verletzt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
