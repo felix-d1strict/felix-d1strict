@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Gartensauna in Mahlsdorf brennt vollständig aus](https://d1strict.media/artikel/331-gartensauna-in-mahlsdorf-brennt-vollst%C3%A4ndig-aus/)
+- [Kellerbrand in Neu-Hohenschönhausen – Feuerwehr mit Großaufgebot im Einsatz](https://d1strict.media/artikel/330-kellerbrand-in-neu-hohensch%C3%B6nhausen-feuerwehr-mit-gro%C3%9Faufgebot-im-einsatz/)
+- [Kellerbrand in Wohnhaus – Keine Verletzten in Kreuzberg](https://d1strict.media/artikel/329-kellerbrand-in-wohnhaus-keine-verletzten-in-kreuzberg/)
 - [Fahrzeugbrand in Marzahn: Audi in Flammen – zweites Auto beschädigt](https://d1strict.media/artikel/328-fahrzeugbrand-in-marzahn-audi-in-flammen-zweites-auto-besch%C3%A4digt/)
-- [Lichterfelde: Brand in Unterführung - Starke Schäden an Hausfassade](https://d1strict.media/artikel/327-lichterfelde-brand-in-unterf%C3%BChrung-starke-sch%C3%A4den-an-hausfassade/)
-- [Zwei Verletzte nach Schüssen in Neukölln – Polizei sperrt Tatort weiträumig ab](https://d1strict.media/artikel/326-zwei-verletzte-nach-sch%C3%BCssen-in-neuk%C3%B6lln-polizei-sperrt-tatort-weitr%C3%A4umig-ab/)
-- [BMW brennt in Neuköllner Industriegebiet](https://d1strict.media/artikel/325-bmw-brennt-in-neuk%C3%B6llner-industriegebiet/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
