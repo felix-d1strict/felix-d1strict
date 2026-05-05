@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Zwei Verletzte nach Schüssen in Neukölln – Polizei sperrt Tatort weiträumig ab](https://d1strict.media/artikel/326-zwei-verletzte-nach-sch%C3%BCssen-in-neuk%C3%B6lln-polizei-sperrt-tatort-weitr%C3%A4umig-ab/)
 - [BMW brennt in Neuköllner Industriegebiet](https://d1strict.media/artikel/325-bmw-brennt-in-neuk%C3%B6llner-industriegebiet/)
 - [Zwei Müllcontainer in Pankow an Hausfassade in Brand geraten](https://d1strict.media/artikel/321-zwei-m%C3%BCllcontainer-in-pankow-an-hausfassade-in-brand-geraten/)
 - [Vegetationsbrand greift auf Wohnhaus in Französisch-Buchholz über](https://d1strict.media/artikel/324-vegetationsbrand-greift-auf-wohnhaus-in-franz%C3%B6sisch-buchholz-%C3%BCber/)
-- [Parkscheinautomat in Tempelhof gesprengt](https://d1strict.media/artikel/323-parkscheinautomat-in-tempelhof-gesprengt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
