@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Neue Feuerwache &quot;Hohenschönhausen&quot; eröffnet](https://d1strict.media/artikel/332-neue-feuerwache-hohensch%C3%B6nhausen-er%C3%B6ffnet/)
 - [Gartensauna in Mahlsdorf brennt vollständig aus](https://d1strict.media/artikel/331-gartensauna-in-mahlsdorf-brennt-vollst%C3%A4ndig-aus/)
 - [Kellerbrand in Neu-Hohenschönhausen – Feuerwehr mit Großaufgebot im Einsatz](https://d1strict.media/artikel/330-kellerbrand-in-neu-hohensch%C3%B6nhausen-feuerwehr-mit-gro%C3%9Faufgebot-im-einsatz/)
 - [Kellerbrand in Wohnhaus – Keine Verletzten in Kreuzberg](https://d1strict.media/artikel/329-kellerbrand-in-wohnhaus-keine-verletzten-in-kreuzberg/)
-- [Fahrzeugbrand in Marzahn: Audi in Flammen – zweites Auto beschädigt](https://d1strict.media/artikel/328-fahrzeugbrand-in-marzahn-audi-in-flammen-zweites-auto-besch%C3%A4digt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
