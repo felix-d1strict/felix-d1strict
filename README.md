@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fahrzeugbrand auf der Frankfurter Allee – Vollsperrung am frühen Morgen](https://d1strict.media/artikel/333-fahrzeugbrand-auf-der-frankfurter-allee-vollsperrung-am-fr%C3%BChen-morgen/)
 - [Neue Feuerwache &quot;Hohenschönhausen&quot; eröffnet](https://d1strict.media/artikel/332-neue-feuerwache-hohensch%C3%B6nhausen-er%C3%B6ffnet/)
 - [Gartensauna in Mahlsdorf brennt vollständig aus](https://d1strict.media/artikel/331-gartensauna-in-mahlsdorf-brennt-vollst%C3%A4ndig-aus/)
 - [Kellerbrand in Neu-Hohenschönhausen – Feuerwehr mit Großaufgebot im Einsatz](https://d1strict.media/artikel/330-kellerbrand-in-neu-hohensch%C3%B6nhausen-feuerwehr-mit-gro%C3%9Faufgebot-im-einsatz/)
-- [Kellerbrand in Wohnhaus – Keine Verletzten in Kreuzberg](https://d1strict.media/artikel/329-kellerbrand-in-wohnhaus-keine-verletzten-in-kreuzberg/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
