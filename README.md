@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vier Verletzte bei schwerer Kollision an der Hasenheide](https://d1strict.media/artikel/340-vier-verletzte-bei-schwerer-kollision-an-der-hasenheide/)
 - [Schwere Kollision in Friedrichshain: E-Bike-Fahrer unter Straßenbahn eingeklemmt](https://d1strict.media/artikel/339-schwere-kollision-in-friedrichshain-e-bike-fahrer-unter-stra%C3%9Fenbahn-eingeklemmt/)
 - [Wohnungsbrand in Hellersdorf: Menschen aus brennender Wohnung gerettet](https://d1strict.media/artikel/338-wohnungsbrand-in-hellersdorf-menschen-aus-brennender-wohnung-gerettet/)
 - [Explosion in Hellersdorf! – Frau verletzt, zwei Männer vorläufig festgenommen](https://d1strict.media/artikel/337-explosion-in-hellersdorf-frau-verletzt-zwei-m%C3%A4nner-vorl%C3%A4ufig-festgenommen/)
-- [Frau stürzt aus Wohnung in Hellersdorf – Verdacht auf schweres Sexualdelikt](https://d1strict.media/artikel/335-frau-st%C3%BCrzt-aus-wohnung-in-hellersdorf-verdacht-auf-schweres-sexualdelikt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
