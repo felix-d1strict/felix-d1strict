@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwere Kollision in Friedrichshain: E-Bike-Fahrer unter Straßenbahn eingeklemmt](https://d1strict.media/artikel/339-schwere-kollision-in-friedrichshain-e-bike-fahrer-unter-stra%C3%9Fenbahn-eingeklemmt/)
+- [Wohnungsbrand in Hellersdorf: Menschen aus brennender Wohnung gerettet](https://d1strict.media/artikel/338-wohnungsbrand-in-hellersdorf-menschen-aus-brennender-wohnung-gerettet/)
 - [Explosion in Hellersdorf! – Frau verletzt, zwei Männer vorläufig festgenommen](https://d1strict.media/artikel/337-explosion-in-hellersdorf-frau-verletzt-zwei-m%C3%A4nner-vorl%C3%A4ufig-festgenommen/)
 - [Frau stürzt aus Wohnung in Hellersdorf – Verdacht auf schweres Sexualdelikt](https://d1strict.media/artikel/335-frau-st%C3%BCrzt-aus-wohnung-in-hellersdorf-verdacht-auf-schweres-sexualdelikt/)
-- [Fahrzeugbrand in Lichtenberg: Mercedes zerstört](https://d1strict.media/artikel/334-fahrzeugbrand-in-lichtenberg-mercedes-zerst%C3%B6rt/)
-- [Fahrzeugbrand auf der Frankfurter Allee – Vollsperrung am frühen Morgen](https://d1strict.media/artikel/333-fahrzeugbrand-auf-der-frankfurter-allee-vollsperrung-am-fr%C3%BChen-morgen/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
