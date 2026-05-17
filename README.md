@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fußgänger und Motorradfahrer bei Kollision in Lichtenberg verletzt](https://d1strict.media/artikel/341-fu%C3%9Fg%C3%A4nger-und-motorradfahrer-bei-kollision-in-lichtenberg-verletzt/)
 - [Vier Verletzte bei schwerer Kollision an der Hasenheide](https://d1strict.media/artikel/340-vier-verletzte-bei-schwerer-kollision-an-der-hasenheide/)
 - [Schwere Kollision in Friedrichshain: E-Bike-Fahrer unter Straßenbahn eingeklemmt](https://d1strict.media/artikel/339-schwere-kollision-in-friedrichshain-e-bike-fahrer-unter-stra%C3%9Fenbahn-eingeklemmt/)
 - [Wohnungsbrand in Hellersdorf: Menschen aus brennender Wohnung gerettet](https://d1strict.media/artikel/338-wohnungsbrand-in-hellersdorf-menschen-aus-brennender-wohnung-gerettet/)
-- [Explosion in Hellersdorf! – Frau verletzt, zwei Männer vorläufig festgenommen](https://d1strict.media/artikel/337-explosion-in-hellersdorf-frau-verletzt-zwei-m%C3%A4nner-vorl%C3%A4ufig-festgenommen/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
