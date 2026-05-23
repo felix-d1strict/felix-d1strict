@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Erneut Schüsse in Kreuzberg: Mann an den Beinen verletzt – Täter flüchtet](https://d1strict.media/artikel/344-erneut-sch%C3%BCsse-in-kreuzberg-mann-an-den-beinen-verletzt-t%C3%A4ter-fl%C3%BCchtet/)
 - [Schüsse in Kreuzberg – Mordkommission ermittelt nach Angriff auf PKW](https://d1strict.media/artikel/343-sch%C3%BCsse-in-kreuzberg-mordkommission-ermittelt-nach-angriff-auf-pkw/)
 - [Tödliche Messerattacke in Hellersdorf – Mordkommission ermittelt](https://d1strict.media/artikel/342-t%C3%B6dliche-messerattacke-in-hellersdorf-mordkommission-ermittelt/)
 - [Fußgänger und Motorradfahrer bei Kollision in Lichtenberg verletzt](https://d1strict.media/artikel/341-fu%C3%9Fg%C3%A4nger-und-motorradfahrer-bei-kollision-in-lichtenberg-verletzt/)
-- [Vier Verletzte bei schwerer Kollision an der Hasenheide](https://d1strict.media/artikel/340-vier-verletzte-bei-schwerer-kollision-an-der-hasenheide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
