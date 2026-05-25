@@ -3,7 +3,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Feuer an Kleinlaster in Berlin-Marzahn](https://d1strict.media/artikel/351-feuer-an-kleinlaster-in-berlin-marzahn/)
-- [Frau in Wohnung erschossen – Ehemann unter Tatverdacht festgenommen](https://d1strict.media/artikel/350-frau-in-wohnung-erschossen-ehemann-unter-tatverdacht-festgenommen/)
+- [Lichtenrade: Frau in Wohnung erschossen – Ehemann unter Tatverdacht festgenommen](https://d1strict.media/artikel/350-lichtenrade-frau-in-wohnung-erschossen-ehemann-unter-tatverdacht-festgenommen/)
 - [Fünf Verletzte bei schwerer Kollision in Treptow – Carsharing-Auto überschlägt sich](https://d1strict.media/artikel/349-f%C3%BCnf-verletzte-bei-schwerer-kollision-in-treptow-carsharing-auto-%C3%BCberschl%C3%A4gt-sic/)
 - [Sprengstoff-Alarm in Rudow: Leiche und verdächtiger Gegenstand in Wohnung entdeckt](https://d1strict.media/artikel/348-sprengstoff-alarm-in-rudow-leiche-und-verd%C3%A4chtiger-gegenstand-in-wohnung-entdeck/)
 <!-- BLOG-POST-LIST:END -->
