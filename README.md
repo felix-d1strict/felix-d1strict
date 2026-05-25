@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Sprengstoff-Alarm in Rudow: Leiche und verdächtiger Gegenstand in Wohnung entdeckt](https://d1strict.media/artikel/348-sprengstoff-alarm-in-rudow-leiche-und-verd%C3%A4chtiger-gegenstand-in-wohnung-entdeck/)
 - [Verfolgungsfahrt endet mit Kollision in Lichtenberg – Ampelmast umgerissen](https://d1strict.media/artikel/347-verfolgungsfahrt-endet-mit-kollision-in-lichtenberg-ampelmast-umgerissen/)
 - [Medizinischer Notfall im Gleisbereich: Großeinsatz am U-Bahnhof Gesundbrunnen](https://d1strict.media/artikel/346-medizinischer-notfall-im-gleisbereich-gro%C3%9Feinsatz-am-u-bahnhof-gesundbrunnen/)
 - [Schwere Kollision an Straßenbahnübergang in Köpenick – Vier Verletzte](https://d1strict.media/artikel/345-schwere-kollision-an-stra%C3%9Fenbahn%C3%BCbergang-in-k%C3%B6penick-vier-verletzte/)
-- [Erneut Schüsse in Kreuzberg: Mann an den Beinen verletzt – Täter flüchtet](https://d1strict.media/artikel/344-erneut-sch%C3%BCsse-in-kreuzberg-mann-an-den-beinen-verletzt-t%C3%A4ter-fl%C3%BCchtet/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
