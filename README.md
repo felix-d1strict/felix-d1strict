@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mercedes-Fahrer weicht E-Scooter-Fahrerin aus und kracht gegen Ampelmast](https://d1strict.media/artikel/355-mercedes-fahrer-weicht-e-scooter-fahrerin-aus-und-kracht-gegen-ampelmast/)
 - [Sommerfest am Altlandsberger Platz lädt zum gemeinsamen Feiern ein](https://d1strict.media/artikel/354-sommerfest-am-altlandsberger-platz-l%C3%A4dt-zum-gemeinsamen-feiern-ein/)
 - [Staatsanwaltschaft klagt 23-Jährigen nach Auto-Explosion in Schöneberg an](https://d1strict.media/artikel/353-staatsanwaltschaft-klagt-23-j%C3%A4hrigen-nach-auto-explosion-in-sch%C3%B6neberg-an/)
 - [Schwere Kollision auf der Frankfurter Allee – Mercedes prallt gegen Ampelmast](https://d1strict.media/artikel/352-schwere-kollision-auf-der-frankfurter-allee-mercedes-prallt-gegen-ampelmast/)
-- [Feuer an Kleinlaster in Berlin-Marzahn](https://d1strict.media/artikel/351-feuer-an-kleinlaster-in-berlin-marzahn/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
