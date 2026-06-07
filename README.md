@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BMW brennt in Marzahn – Feuerwehr verhindert Ausbreitung](https://d1strict.media/artikel/357-bmw-brennt-in-marzahn-feuerwehr-verhindert-ausbreitung/)
 - [Straßenbahn entgleist in Hohenschönhausen – 20 Verletzte nach Kollision mit Oberleitungsmasten](https://d1strict.media/artikel/356-stra%C3%9Fenbahn-entgleist-in-hohensch%C3%B6nhausen-20-verletzte-nach-kollision-mit-oberle/)
 - [Mercedes-Fahrer weicht E-Scooter-Fahrerin aus und kracht gegen Ampelmast](https://d1strict.media/artikel/355-mercedes-fahrer-weicht-e-scooter-fahrerin-aus-und-kracht-gegen-ampelmast/)
 - [Sommerfest am Altlandsberger Platz lädt zum gemeinsamen Feiern ein](https://d1strict.media/artikel/354-sommerfest-am-altlandsberger-platz-l%C3%A4dt-zum-gemeinsamen-feiern-ein/)
-- [Staatsanwaltschaft klagt 23-Jährigen nach Auto-Explosion in Schöneberg an](https://d1strict.media/artikel/353-staatsanwaltschaft-klagt-23-j%C3%A4hrigen-nach-auto-explosion-in-sch%C3%B6neberg-an/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
