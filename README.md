@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [BMW brennt in Marzahn – Feuerwehr verhindert Ausbreitung](https://d1strict.media/artikel/357-bmw-brennt-in-marzahn-feuerwehr-verhindert-ausbreitung/)
-- [Straßenbahn entgleist in Hohenschönhausen – 20 Verletzte nach Kollision mit Oberleitungsmasten](https://d1strict.media/artikel/356-stra%C3%9Fenbahn-entgleist-in-hohensch%C3%B6nhausen-20-verletzte-nach-kollision-mit-oberle/)
-- [Mercedes-Fahrer weicht E-Scooter-Fahrerin aus und kracht gegen Ampelmast](https://d1strict.media/artikel/355-mercedes-fahrer-weicht-e-scooter-fahrerin-aus-und-kracht-gegen-ampelmast/)
-- [Sommerfest am Altlandsberger Platz lädt zum gemeinsamen Feiern ein](https://d1strict.media/artikel/354-sommerfest-am-altlandsberger-platz-l%C3%A4dt-zum-gemeinsamen-feiern-ein/)
+- [Mutmaßlicher Drogendealer verschanzt sich in Wohnung – SEK und Diensthund im Einsatz](https://d1strict.media/artikel/364-mutma%C3%9Flicher-drogendealer-verschanzt-sich-in-wohnung-sek-und-diensthund-im-einsa/)
+- [Hund stirbt nach Vorfall in Alt-Treptow – Halter nach Angriff des Tieres verletzt](https://d1strict.media/artikel/363-hund-stirbt-nach-vorfall-in-alt-treptow-halter-nach-angriff-des-tieres-verletzt/)
+- [Vier Verletzte bei Kreuzungsunfall in Marzahn – Havemannstraße zeitweise voll gesperrt](https://d1strict.media/artikel/362-vier-verletzte-bei-kreuzungsunfall-in-marzahn-havemannstra%C3%9Fe-zeitweise-voll-gesp/)
+- [Bewaffneter Raubüberfall in Marzahn: Familie in Hochhauswohnung attackiert – 100.000 Euro erbeutet](https://d1strict.media/artikel/361-bewaffneter-raub%C3%BCberfall-in-marzahn-familie-in-hochhauswohnung-attackiert-100-00/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
