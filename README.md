@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fußgänger auf Frankfurter Allee von Auto erfasst – PKW prallt gegen Werbetafel](https://d1strict.media/artikel/367-fu%C3%9Fg%C3%A4nger-auf-frankfurter-allee-von-auto-erfasst-pkw-prallt-gegen-werbetafel/)
 - [Sechs Telekom-Fahrzeuge in Alt-Hohenschönhausen ausgebrannt – Bekennerschreiben aufgetaucht](https://d1strict.media/artikel/365-sechs-telekom-fahrzeuge-in-alt-hohensch%C3%B6nhausen-ausgebrannt-bekennerschreiben-au/)
 - [Balkonbrand in Lichtenberg greift auf weiteren Balkon über](https://d1strict.media/artikel/366-balkonbrand-in-lichtenberg-greift-auf-weiteren-balkon-%C3%BCber/)
 - [Mutmaßlicher Drogendealer verschanzt sich in Wohnung – SEK und Diensthund im Einsatz](https://d1strict.media/artikel/364-mutma%C3%9Flicher-drogendealer-verschanzt-sich-in-wohnung-sek-und-diensthund-im-einsa/)
-- [Hund stirbt nach Vorfall in Alt-Treptow – Halter nach Angriff des Tieres verletzt](https://d1strict.media/artikel/363-hund-stirbt-nach-vorfall-in-alt-treptow-halter-nach-angriff-des-tieres-verletzt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
