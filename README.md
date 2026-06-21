@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tödliche Kollision in Friedrichsfelde: Fußgänger stirbt, Seniorin und Motorradfahrer schwer verletzt](https://d1strict.media/artikel/370-t%C3%B6dliche-kollision-in-friedrichsfelde-fu%C3%9Fg%C3%A4nger-stirbt-seniorin-und-motorradfahr/)
 - [26-Jährige in Marzahn im Treppenhaus attackiert – Polizei fahndet nach Messerangreifer](https://d1strict.media/artikel/369-26-j%C3%A4hrige-in-marzahn-im-treppenhaus-attackiert-polizei-fahndet-nach-messerangre/)
 - [Schwere Kollision in Friedrichsfelde: Drei Verletzte und mehrere Fahrzeuge beschädigt](https://d1strict.media/artikel/368-schwere-kollision-in-friedrichsfelde-drei-verletzte-und-mehrere-fahrzeuge-besch%C3%A4/)
 - [Fußgänger auf Frankfurter Allee von Auto erfasst – PKW prallt gegen Werbetafel](https://d1strict.media/artikel/367-fu%C3%9Fg%C3%A4nger-auf-frankfurter-allee-von-auto-erfasst-pkw-prallt-gegen-werbetafel/)
-- [Sechs Telekom-Fahrzeuge in Alt-Hohenschönhausen ausgebrannt – Bekennerschreiben aufgetaucht](https://d1strict.media/artikel/365-sechs-telekom-fahrzeuge-in-alt-hohensch%C3%B6nhausen-ausgebrannt-bekennerschreiben-au/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
