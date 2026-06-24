@@ -2,7 +2,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Schwere E-Scooter-Fahrerin bei Unfall verletzt – Helfer stürzt vom Balkon](https://d1strict.media/artikel/374-schwere-e-scooter-fahrerin-bei-unfall-verletzt-helfer-st%C3%BCrzt-vom-balkon/)
+- [E-Scooter-Fahrerin bei Kollision schwer verletzt – Helfer stürzt vom Balkon](https://d1strict.media/artikel/374-e-scooter-fahrerin-bei-kollision-schwer-verletzt-helfer-st%C3%BCrzt-vom-balkon/)
 - [Tödliche Kollision in Prenzlauer Berg: Umstürzender Mast erschlägt Mann an Tramhaltestelle](https://d1strict.media/artikel/373-t%C3%B6dliche-kollision-in-prenzlauer-berg-umst%C3%BCrzender-mast-erschl%C3%A4gt-mann-an-tramha/)
 - [Kommunikationsstörung legt Berliner S-Bahn-Verkehr lahm – Auswirkungen bundesweit spürbar](https://d1strict.media/artikel/372-kommunikationsst%C3%B6rung-legt-berliner-s-bahn-verkehr-lahm-auswirkungen-bundesweit/)
 - [Nach schwerem Unfall in Friedrichsfelde: Auch 85-jährige Fußgängerin verstorben](https://d1strict.media/artikel/371-nach-schwerem-unfall-in-friedrichsfelde-auch-85-j%C3%A4hrige-fu%C3%9Fg%C3%A4ngerin-verstorben/)
