@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Polizeieinsatz auf dem Großen Müggelsee: Mann springt von Partyboot ins Wasser](https://d1strict.media/artikel/375-polizeieinsatz-auf-dem-gro%C3%9Fen-m%C3%BCggelsee-mann-springt-von-partyboot-ins-wasser/)
-- [E-Scooter-Fahrerin bei Kollision schwer verletzt – Helfer stürzt vom Balkon](https://d1strict.media/artikel/374-e-scooter-fahrerin-bei-kollision-schwer-verletzt-helfer-st%C3%BCrzt-vom-balkon/)
-- [Tödliche Kollision in Prenzlauer Berg: Umstürzender Mast erschlägt Mann an Tramhaltestelle](https://d1strict.media/artikel/373-t%C3%B6dliche-kollision-in-prenzlauer-berg-umst%C3%BCrzender-mast-erschl%C3%A4gt-mann-an-tramha/)
-- [Kommunikationsstörung legt Berliner S-Bahn-Verkehr lahm – Auswirkungen bundesweit spürbar](https://d1strict.media/artikel/372-kommunikationsst%C3%B6rung-legt-berliner-s-bahn-verkehr-lahm-auswirkungen-bundesweit/)
+- [Brennender Anhänger löst Feuerwehreinsatz in Hellersdorf aus](https://d1strict.media/artikel/380-brennender-anh%C3%A4nger-l%C3%B6st-feuerwehreinsatz-in-hellersdorf-aus/)
+- [Kleinkinder trinken Alkohol am Butzer See in Kaulsdorf – Polizei ermittelt gegen fünf Erwachsene](https://d1strict.media/artikel/379-kleinkinder-trinken-alkohol-am-butzer-see-in-kaulsdorf-polizei-ermittelt-gegen-f/)
+- [Moabit: Drei Gartenlauben an der Putlitzbrücke in Vollbrand – Ringbahn unterbrochen](https://d1strict.media/artikel/378-moabit-drei-gartenlauben-an-der-putlitzbr%C3%BCcke-in-vollbrand-ringbahn-unterbrochen/)
+- [Schwerer Motorradunfall auf der Karl-Marx-Allee – Motorradfahrer schwer verletzt](https://d1strict.media/artikel/377-schwerer-motorradunfall-auf-der-karl-marx-allee-motorradfahrer-schwer-verletzt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
