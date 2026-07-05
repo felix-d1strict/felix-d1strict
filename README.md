@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Brennender Anhänger löst Feuerwehreinsatz in Hellersdorf aus](https://d1strict.media/artikel/380-brennender-anh%C3%A4nger-l%C3%B6st-feuerwehreinsatz-in-hellersdorf-aus/)
-- [Kleinkinder trinken Alkohol am Butzer See in Kaulsdorf – Polizei ermittelt gegen fünf Erwachsene](https://d1strict.media/artikel/379-kleinkinder-trinken-alkohol-am-butzer-see-in-kaulsdorf-polizei-ermittelt-gegen-f/)
-- [Moabit: Drei Gartenlauben an der Putlitzbrücke in Vollbrand – Ringbahn unterbrochen](https://d1strict.media/artikel/378-moabit-drei-gartenlauben-an-der-putlitzbr%C3%BCcke-in-vollbrand-ringbahn-unterbrochen/)
-- [Schwerer Motorradunfall auf der Karl-Marx-Allee – Motorradfahrer schwer verletzt](https://d1strict.media/artikel/377-schwerer-motorradunfall-auf-der-karl-marx-allee-motorradfahrer-schwer-verletzt/)
+- [Wohnungsbrand nach Rauchmelder-Alarm: Feuerwehr rettet Bewohnerin aus verrauchter Wohnung](https://d1strict.media/artikel/384-wohnungsbrand-nach-rauchmelder-alarm-feuerwehr-rettet-bewohnerin-aus-verrauchter/)
+- [Mann randaliert nach Drogenkonsum – Fäkalien laufen durch mehrere Etagen](https://d1strict.media/artikel/383-mann-randaliert-nach-drogenkonsum-f%C3%A4kalien-laufen-durch-mehrere-etagen/)
+- [Vier Verletzte bei schwerer Kollision auf der Landsberger Allee in Lichtenberg](https://d1strict.media/artikel/382-vier-verletzte-bei-schwerer-kollision-auf-der-landsberger-allee-in-lichtenberg/)
+- [Messerangriff in Flüchtlingsunterkunft: 39-Jähriger verletzt – Täter auf der Flucht](https://d1strict.media/artikel/381-messerangriff-in-fl%C3%BCchtlingsunterkunft-39-j%C3%A4hriger-verletzt-t%C3%A4ter-auf-der-flucht/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
