@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Wohnungsbrand nach Rauchmelder-Alarm: Feuerwehr rettet Bewohnerin aus verrauchter Wohnung](https://d1strict.media/artikel/384-wohnungsbrand-nach-rauchmelder-alarm-feuerwehr-rettet-bewohnerin-aus-verrauchter/)
-- [Mann randaliert nach Drogenkonsum – Fäkalien laufen durch mehrere Etagen](https://d1strict.media/artikel/383-mann-randaliert-nach-drogenkonsum-f%C3%A4kalien-laufen-durch-mehrere-etagen/)
-- [Vier Verletzte bei schwerer Kollision auf der Landsberger Allee in Lichtenberg](https://d1strict.media/artikel/382-vier-verletzte-bei-schwerer-kollision-auf-der-landsberger-allee-in-lichtenberg/)
-- [Messerangriff in Flüchtlingsunterkunft: 39-Jähriger verletzt – Täter auf der Flucht](https://d1strict.media/artikel/381-messerangriff-in-fl%C3%BCchtlingsunterkunft-39-j%C3%A4hriger-verletzt-t%C3%A4ter-auf-der-flucht/)
+- [Kollision zwischen Audi und VW – Straße zeitweise voll gesperrt](https://d1strict.media/artikel/387-kollision-zwischen-audi-und-vw-stra%C3%9Fe-zeitweise-voll-gesperrt/)
+- [Schwerer Motorradunfall in Alt-Friedrichsfelde – Fahrer lebensgefährlich verletzt](https://d1strict.media/artikel/386-schwerer-motorradunfall-in-alt-friedrichsfelde-fahrer-lebensgef%C3%A4hrlich-verletzt/)
+- [Marzahn: Streit in Dönerladen eskaliert – Mann durch Stichverletzung verletzt](https://d1strict.media/artikel/385-marzahn-streit-in-d%C3%B6nerladen-eskaliert-mann-durch-stichverletzung-verletzt/)
+- [Wohnungsbrand in Lichtenberg: Feuerwehr rettet Bewohnerin aus verrauchter Wohnung](https://d1strict.media/artikel/384-wohnungsbrand-in-lichtenberg-feuerwehr-rettet-bewohnerin-aus-verrauchter-wohnung/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
