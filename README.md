@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Reizgasattacke nach Finch-Konzert: Elf Verletzte bei Großeinsatz in Oberschöneweide](https://d1strict.media/artikel/390-reizgasattacke-nach-finch-konzert-elf-verletzte-bei-gro%C3%9Feinsatz-in-obersch%C3%B6newei/)
 - [Mercedes kracht gegen Laterne und Werbeaufsteller – Zwei Verletzte bei schwerer Kollision am Pyramidenring](https://d1strict.media/artikel/389-mercedes-kracht-gegen-laterne-und-werbeaufsteller-zwei-verletzte-bei-schwerer-ko/)
 - [Reizgas am U-Bahnhof Rathaus Neukölln versprüht – 20 Menschen untersucht, zwei im Krankenhaus](https://d1strict.media/artikel/388-reizgas-am-u-bahnhof-rathaus-neuk%C3%B6lln-verspr%C3%BCht-20-menschen-untersucht-zwei-im-k/)
 - [Kollision zwischen Audi und VW – Straße zeitweise voll gesperrt](https://d1strict.media/artikel/387-kollision-zwischen-audi-und-vw-stra%C3%9Fe-zeitweise-voll-gesperrt/)
-- [Schwerer Motorradunfall in Alt-Friedrichsfelde – Fahrer lebensgefährlich verletzt](https://d1strict.media/artikel/386-schwerer-motorradunfall-in-alt-friedrichsfelde-fahrer-lebensgef%C3%A4hrlich-verletzt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
