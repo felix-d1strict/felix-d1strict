@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SUV prallt bei Regen an Auffahrt zur A113 gegen Ampelmast – Kreuzung voll gesperrt](https://d1strict.media/artikel/394-suv-prallt-bei-regen-an-auffahrt-zur-a113-gegen-ampelmast-kreuzung-voll-gesperrt/)
+- [Mehrere Fahrzeuge bei Kollision in Oberschöneweide beschädigt](https://d1strict.media/artikel/393-mehrere-fahrzeuge-bei-kollision-in-obersch%C3%B6neweide-besch%C3%A4digt/)
 - [Große Suchaktion in Lichtenrade endet glimpflich – Großaufgebot sucht vermeintlich hilflose Person](https://d1strict.media/artikel/392-gro%C3%9Fe-suchaktion-in-lichtenrade-endet-glimpflich-gro%C3%9Faufgebot-sucht-vermeintlich/)
 - [Verpuffung an Gasgrill in Schöneberg – Zwei Menschen verletzt](https://d1strict.media/artikel/391-verpuffung-an-gasgrill-in-sch%C3%B6neberg-zwei-menschen-verletzt/)
-- [Reizgasattacke nach Finch-Konzert: Elf Verletzte bei Großeinsatz in Oberschöneweide](https://d1strict.media/artikel/390-reizgasattacke-nach-finch-konzert-elf-verletzte-bei-gro%C3%9Feinsatz-in-obersch%C3%B6newei/)
-- [Mercedes kracht gegen Laterne und Werbeaufsteller – Zwei Verletzte bei schwerer Kollision am Pyramidenring](https://d1strict.media/artikel/389-mercedes-kracht-gegen-laterne-und-werbeaufsteller-zwei-verletzte-bei-schwerer-ko/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
