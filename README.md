@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Detonation zerstört Geschäftshaus in Britz](https://d1strict.media/artikel/397-detonation-zerst%C3%B6rt-gesch%C3%A4ftshaus-in-britz/)
+- [PKW überschlägt sich auf der A100 in Schöneberg – Fahrer leicht verletzt](https://d1strict.media/artikel/396-pkw-%C3%BCberschl%C3%A4gt-sich-auf-der-a100-in-sch%C3%B6neberg-fahrer-leicht-verletzt/)
+- [29 Festnahmen nach gewaltsamer Auseinandersetzung in Hellersdorfer Jugendzentrum](https://d1strict.media/artikel/395-29-festnahmen-nach-gewaltsamer-auseinandersetzung-in-hellersdorfer-jugendzentrum/)
 - [SUV prallt bei Regen an Auffahrt zur A113 gegen Ampelmast – Kreuzung voll gesperrt](https://d1strict.media/artikel/394-suv-prallt-bei-regen-an-auffahrt-zur-a113-gegen-ampelmast-kreuzung-voll-gesperrt/)
-- [Mehrere Fahrzeuge bei Kollision in Oberschöneweide beschädigt](https://d1strict.media/artikel/393-mehrere-fahrzeuge-bei-kollision-in-obersch%C3%B6neweide-besch%C3%A4digt/)
-- [Große Suchaktion in Lichtenrade endet glimpflich – Großaufgebot sucht vermeintlich hilflose Person](https://d1strict.media/artikel/392-gro%C3%9Fe-suchaktion-in-lichtenrade-endet-glimpflich-gro%C3%9Faufgebot-sucht-vermeintlich/)
-- [Verpuffung an Gasgrill in Schöneberg – Zwei Menschen verletzt](https://d1strict.media/artikel/391-verpuffung-an-gasgrill-in-sch%C3%B6neberg-zwei-menschen-verletzt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
