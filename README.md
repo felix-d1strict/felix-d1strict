@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Detonation zerstört Geschäftshaus in Britz](https://d1strict.media/artikel/397-detonation-zerst%C3%B6rt-gesch%C3%A4ftshaus-in-britz/)
+- [Schwere Kollision in Friedrichshain: Radfahrerin gerät unter Lkw und wird schwer verletzt](https://d1strict.media/artikel/399-schwere-kollision-in-friedrichshain-radfahrerin-ger%C3%A4t-unter-lkw-und-wird-schwer/)
+- [Schmöckwitz: Mercedes Vito prallt auf dem Adlergestell gegen Baum](https://d1strict.media/artikel/398-schm%C3%B6ckwitz-mercedes-vito-prallt-auf-dem-adlergestell-gegen-baum/)
+- [Neukölln: Detonation zerstört Geschäftshaus in Britz](https://d1strict.media/artikel/397-neuk%C3%B6lln-detonation-zerst%C3%B6rt-gesch%C3%A4ftshaus-in-britz/)
 - [PKW überschlägt sich auf der A100 in Schöneberg – Fahrer leicht verletzt](https://d1strict.media/artikel/396-pkw-%C3%BCberschl%C3%A4gt-sich-auf-der-a100-in-sch%C3%B6neberg-fahrer-leicht-verletzt/)
-- [29 Festnahmen nach gewaltsamer Auseinandersetzung in Hellersdorfer Jugendzentrum](https://d1strict.media/artikel/395-29-festnahmen-nach-gewaltsamer-auseinandersetzung-in-hellersdorfer-jugendzentrum/)
-- [SUV prallt bei Regen an Auffahrt zur A113 gegen Ampelmast – Kreuzung voll gesperrt](https://d1strict.media/artikel/394-suv-prallt-bei-regen-an-auffahrt-zur-a113-gegen-ampelmast-kreuzung-voll-gesperrt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
