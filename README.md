@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Geiselnahme in Berliner Supermarkt endet nach elf Stunden – SEK befreit Mitarbeiterin, Tatverdächtiger in U-Haft](https://d1strict.media/artikel/400-geiselnahme-in-berliner-supermarkt-endet-nach-elf-stunden-sek-befreit-mitarbeite/)
 - [Schwere Kollision in Friedrichshain: Radfahrerin gerät unter Lkw und wird schwer verletzt](https://d1strict.media/artikel/399-schwere-kollision-in-friedrichshain-radfahrerin-ger%C3%A4t-unter-lkw-und-wird-schwer/)
 - [Schmöckwitz: Mercedes Vito prallt auf dem Adlergestell gegen Baum](https://d1strict.media/artikel/398-schm%C3%B6ckwitz-mercedes-vito-prallt-auf-dem-adlergestell-gegen-baum/)
 - [Neukölln: Detonation zerstört Geschäftshaus in Britz](https://d1strict.media/artikel/397-neuk%C3%B6lln-detonation-zerst%C3%B6rt-gesch%C3%A4ftshaus-in-britz/)
-- [PKW überschlägt sich auf der A100 in Schöneberg – Fahrer leicht verletzt](https://d1strict.media/artikel/396-pkw-%C3%BCberschl%C3%A4gt-sich-auf-der-a100-in-sch%C3%B6neberg-fahrer-leicht-verletzt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
