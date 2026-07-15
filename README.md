@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Geiselnahme in Berliner Supermarkt endet nach elf Stunden – SEK befreit Mitarbeiterin, Tatverdächtiger in U-Haft](https://d1strict.media/artikel/400-geiselnahme-in-berliner-supermarkt-endet-nach-elf-stunden-sek-befreit-mitarbeite/)
-- [Schwere Kollision in Friedrichshain: Radfahrerin gerät unter Lkw und wird schwer verletzt](https://d1strict.media/artikel/399-schwere-kollision-in-friedrichshain-radfahrerin-ger%C3%A4t-unter-lkw-und-wird-schwer/)
-- [Schmöckwitz: Mercedes Vito prallt auf dem Adlergestell gegen Baum](https://d1strict.media/artikel/398-schm%C3%B6ckwitz-mercedes-vito-prallt-auf-dem-adlergestell-gegen-baum/)
-- [Neukölln: Detonation zerstört Geschäftshaus in Britz](https://d1strict.media/artikel/397-neuk%C3%B6lln-detonation-zerst%C3%B6rt-gesch%C3%A4ftshaus-in-britz/)
+- [Mann stürzt aus Wohnhaus in Rummelsburg – Schwer verletzt ins Krankenhaus](https://d1strict.media/artikel/406-mann-st%C3%BCrzt-aus-wohnhaus-in-rummelsburg-schwer-verletzt-ins-krankenhaus/)
+- [Auto kracht in Straßenbahnhaltestelle in Köpenick – Fahrer verliert nach Ausweichmanöver die Kontrolle](https://d1strict.media/artikel/405-auto-kracht-in-stra%C3%9Fenbahnhaltestelle-in-k%C3%B6penick-fahrer-verliert-nach-ausweichm/)
+- [Brand auf ehemaligem Bahngelände in Grünau – Feuer greift auf Vegetation über](https://d1strict.media/artikel/404-brand-auf-ehemaligem-bahngel%C3%A4nde-in-gr%C3%BCnau-feuer-greift-auf-vegetation-%C3%BCber/)
+- [Cannabis-Kekse in Marzahn gegessen: Fünf Menschen nach Unwohlsein im Krankenhaus](https://d1strict.media/artikel/403-cannabis-kekse-in-marzahn-gegessen-f%C3%BCnf-menschen-nach-unwohlsein-im-krankenhaus/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
