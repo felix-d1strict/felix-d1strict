@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwere Kollision in Bohnsdorf: Mercedes-Fahrer verliert Kontrolle – Verdacht auf Alkohol am Steuer](https://d1strict.media/artikel/411-schwere-kollision-in-bohnsdorf-mercedes-fahrer-verliert-kontrolle-verdacht-auf-a/)
 - [17 Menschen und ein Hund bei Kellerbrand in Hellersdorf gerettet](https://d1strict.media/artikel/410-17-menschen-und-ein-hund-bei-kellerbrand-in-hellersdorf-gerettet/)
 - [VW Golf kollidiert mit Mercedes Vario in Kaulsdorf](https://d1strict.media/artikel/409-vw-golf-kollidiert-mit-mercedes-vario-in-kaulsdorf/)
 - [Drei Verletzte bei Kollision in Hohenschönhausen – Insassen flüchten nach Zusammenstoß](https://d1strict.media/artikel/408-drei-verletzte-bei-kollision-in-hohensch%C3%B6nhausen-insassen-fl%C3%BCchten-nach-zusammen/)
-- [Mercedes kollidiert mit Straßenbahn in Lichtenberg – Tramverkehr kurzzeitig unterbrochen](https://d1strict.media/artikel/407-mercedes-kollidiert-mit-stra%C3%9Fenbahn-in-lichtenberg-tramverkehr-kurzzeitig-unterb/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
