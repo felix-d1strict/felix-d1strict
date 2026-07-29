@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Schwere Kollision in Bohnsdorf: Mercedes-Fahrer verliert Kontrolle – Verdacht auf Alkohol am Steuer](https://d1strict.media/artikel/411-schwere-kollision-in-bohnsdorf-mercedes-fahrer-verliert-kontrolle-verdacht-auf-a/)
-- [17 Menschen und ein Hund bei Kellerbrand in Hellersdorf gerettet](https://d1strict.media/artikel/410-17-menschen-und-ein-hund-bei-kellerbrand-in-hellersdorf-gerettet/)
-- [VW Golf kollidiert mit Mercedes Vario in Kaulsdorf](https://d1strict.media/artikel/409-vw-golf-kollidiert-mit-mercedes-vario-in-kaulsdorf/)
-- [Drei Verletzte bei Kollision in Hohenschönhausen – Insassen flüchten nach Zusammenstoß](https://d1strict.media/artikel/408-drei-verletzte-bei-kollision-in-hohensch%C3%B6nhausen-insassen-fl%C3%BCchten-nach-zusammen/)
+- [Männliche Leiche im Tiergarten gefunden – Kriminalpolizei ermittelt](https://d1strict.media/artikel/415-m%C3%A4nnliche-leiche-im-tiergarten-gefunden-kriminalpolizei-ermittelt/)
+- [Matratzenbrand in Friedrichshain – Feuerwehr verhindert Brandausbreitung](https://d1strict.media/artikel/414-matratzenbrand-in-friedrichshain-feuerwehr-verhindert-brandausbreitung/)
+- [Autohasser schlagen erneut zu: Zahlreichen SUVs in Charlottenburg Luft aus Reifen gelassen](https://d1strict.media/artikel/413-autohasser-schlagen-erneut-zu-zahlreichen-suvs-in-charlottenburg-luft-aus-reifen/)
+- [Bus rammt Wasserleitung: Feuerwehr sichert tonnenschwere Rohrkonstruktion mit zwei Kränen](https://d1strict.media/artikel/412-bus-rammt-wasserleitung-feuerwehr-sichert-tonnenschwere-rohrkonstruktion-mit-zwe/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
