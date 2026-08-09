@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schüsse auf Nachtclub und Friseursalon in Hellersdorf](https://d1strict.media/artikel/418-sch%C3%BCsse-auf-nachtclub-und-friseursalon-in-hellersdorf/)
 - [Terroranschlag beim Berliner CSD: So verlief die Tatnacht](https://d1strict.media/artikel/416-terroranschlag-beim-berliner-csd-so-verlief-die-tatnacht/)
 - [Männliche Leiche im Tiergarten gefunden – Kriminalpolizei ermittelt](https://d1strict.media/artikel/415-m%C3%A4nnliche-leiche-im-tiergarten-gefunden-kriminalpolizei-ermittelt/)
 - [Matratzenbrand in Friedrichshain – Feuerwehr verhindert Brandausbreitung](https://d1strict.media/artikel/414-matratzenbrand-in-friedrichshain-feuerwehr-verhindert-brandausbreitung/)
-- [Autohasser schlagen erneut zu: Zahlreichen SUVs in Charlottenburg Luft aus Reifen gelassen](https://d1strict.media/artikel/413-autohasser-schlagen-erneut-zu-zahlreichen-suvs-in-charlottenburg-luft-aus-reifen/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
