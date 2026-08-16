@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kellerbrand in Marienfelde: Hochhaus massiv verraucht](https://d1strict.media/artikel/422-kellerbrand-in-marienfelde-hochhaus-massiv-verraucht/)
 - [Brand im Berliner Schloss – Feuerwehr verhindert Ausbreitung](https://d1strict.media/artikel/421-brand-im-berliner-schloss-feuerwehr-verhindert-ausbreitung/)
 - [Einbrecher-Duo verwüstet Ladenzeile im Eastgate](https://d1strict.media/artikel/420-einbrecher-duo-verw%C3%BCstet-ladenzeile-im-eastgate/)
 - [Großbrand in Biesdorfer Pflegeeinrichtung – elf Menschen verletzt](https://d1strict.media/artikel/419-gro%C3%9Fbrand-in-biesdorfer-pflegeeinrichtung-elf-menschen-verletzt/)
-- [Schüsse auf Nachtclub und Friseursalon in Hellersdorf](https://d1strict.media/artikel/418-sch%C3%BCsse-auf-nachtclub-und-friseursalon-in-hellersdorf/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
