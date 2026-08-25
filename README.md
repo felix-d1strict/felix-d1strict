@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Messerangriff nach Kioskbesuch in Britz – 36-Jähriger schwer verletzt und ausgeraubt](https://d1strict.media/artikel/424-messerangriff-nach-kioskbesuch-in-britz-36-j%C3%A4hriger-schwer-verletzt-und-ausgerau/)
+- [SEK-Einsatz in Mariendorf: Mann schießt mehrfach von Balkon](https://d1strict.media/artikel/423-sek-einsatz-in-mariendorf-mann-schie%C3%9Ft-mehrfach-von-balkon/)
 - [Kellerbrand in Marienfelde: Hochhaus massiv verraucht](https://d1strict.media/artikel/422-kellerbrand-in-marienfelde-hochhaus-massiv-verraucht/)
 - [Brand im Berliner Schloss – Feuerwehr verhindert Ausbreitung](https://d1strict.media/artikel/421-brand-im-berliner-schloss-feuerwehr-verhindert-ausbreitung/)
-- [Einbrecher-Duo verwüstet Ladenzeile im Eastgate](https://d1strict.media/artikel/420-einbrecher-duo-verw%C3%BCstet-ladenzeile-im-eastgate/)
-- [Großbrand in Biesdorfer Pflegeeinrichtung – elf Menschen verletzt](https://d1strict.media/artikel/419-gro%C3%9Fbrand-in-biesdorfer-pflegeeinrichtung-elf-menschen-verletzt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
