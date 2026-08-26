@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pkw in Gatow zwischen Bäume verkeilt – Person lebensgefährlich verletzt](https://d1strict.media/artikel/429-pkw-in-gatow-zwischen-b%C3%A4ume-verkeilt-person-lebensgef%C3%A4hrlich-verletzt/)
+- [Prenzlauer Berg – 46-Jährige tot in Gebüsch gefunden: Mordkommission ermittelt](https://d1strict.media/artikel/428-prenzlauer-berg-46-j%C3%A4hrige-tot-in-geb%C3%BCsch-gefunden-mordkommission-ermittelt/)
+- [Skoda überschlägt sich nach Zusammenstoß mit geparktem Opel](https://d1strict.media/artikel/427-skoda-%C3%BCberschl%C3%A4gt-sich-nach-zusammensto%C3%9F-mit-geparktem-opel/)
 - [Café in Neukölln brennt – Feuerwehr muss Tür gewaltsam öffnen](https://d1strict.media/artikel/426-caf%C3%A9-in-neuk%C3%B6lln-brennt-feuerwehr-muss-t%C3%BCr-gewaltsam-%C3%B6ffnen/)
-- [Balkonbrand sorgt für Feuerwehreinsatz in der Paul-Gesche-Straße](https://d1strict.media/artikel/425-balkonbrand-sorgt-f%C3%BCr-feuerwehreinsatz-in-der-paul-gesche-stra%C3%9Fe/)
-- [Messerangriff nach Kioskbesuch in Britz – 36-Jähriger schwer verletzt und ausgeraubt](https://d1strict.media/artikel/424-messerangriff-nach-kioskbesuch-in-britz-36-j%C3%A4hriger-schwer-verletzt-und-ausgerau/)
-- [SEK-Einsatz in Mariendorf: Mann schießt mehrfach von Balkon](https://d1strict.media/artikel/423-sek-einsatz-in-mariendorf-mann-schie%C3%9Ft-mehrfach-von-balkon/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
