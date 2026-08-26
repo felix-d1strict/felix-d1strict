@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Café in Neukölln brennt – Feuerwehr muss Tür gewaltsam öffnen](https://d1strict.media/artikel/426-caf%C3%A9-in-neuk%C3%B6lln-brennt-feuerwehr-muss-t%C3%BCr-gewaltsam-%C3%B6ffnen/)
+- [Balkonbrand sorgt für Feuerwehreinsatz in der Paul-Gesche-Straße](https://d1strict.media/artikel/425-balkonbrand-sorgt-f%C3%BCr-feuerwehreinsatz-in-der-paul-gesche-stra%C3%9Fe/)
 - [Messerangriff nach Kioskbesuch in Britz – 36-Jähriger schwer verletzt und ausgeraubt](https://d1strict.media/artikel/424-messerangriff-nach-kioskbesuch-in-britz-36-j%C3%A4hriger-schwer-verletzt-und-ausgerau/)
 - [SEK-Einsatz in Mariendorf: Mann schießt mehrfach von Balkon](https://d1strict.media/artikel/423-sek-einsatz-in-mariendorf-mann-schie%C3%9Ft-mehrfach-von-balkon/)
-- [Kellerbrand in Marienfelde: Hochhaus massiv verraucht](https://d1strict.media/artikel/422-kellerbrand-in-marienfelde-hochhaus-massiv-verraucht/)
-- [Brand im Berliner Schloss – Feuerwehr verhindert Ausbreitung](https://d1strict.media/artikel/421-brand-im-berliner-schloss-feuerwehr-verhindert-ausbreitung/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
