@@ -2,10 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwere Kollision in Lichtenberg: Autofahrerin übersieht Straßenbahn](https://d1strict.media/artikel/436-schwere-kollision-in-lichtenberg-autofahrerin-%C3%BCbersieht-stra%C3%9Fenbahn/)
+- [BMW nach Kollision mit Toyota in Marzahn um 180 Grad gedreht](https://d1strict.media/artikel/435-bmw-nach-kollision-mit-toyota-in-marzahn-um-180-grad-gedreht/)
+- [Fußgänger von Straßenbahn erfasst – M13-Verkehr in Weißensee unterbrochen](https://d1strict.media/artikel/434-fu%C3%9Fg%C3%A4nger-von-stra%C3%9Fenbahn-erfasst-m13-verkehr-in-wei%C3%9Fensee-unterbrochen/)
 - [Messerangriff an Schule erschüttert Gosen-Neu Zittau – Feuerwehrkräfte gedenken der Opfer](https://d1strict.media/artikel/432-messerangriff-an-schule-ersch%C3%BCttert-gosen-neu-zittau-feuerwehrkr%C3%A4fte-gedenken-de/)
-- [17-Jähriger attackiert Paar mit Pfefferspray und spitzem Gegenstand in Treptow](https://d1strict.media/artikel/431-17-j%C3%A4hriger-attackiert-paar-mit-pfefferspray-und-spitzem-gegenstand-in-treptow/)
-- [Pkw in Gatow zwischen Bäume verkeilt – Person lebensgefährlich verletzt](https://d1strict.media/artikel/429-pkw-in-gatow-zwischen-b%C3%A4ume-verkeilt-person-lebensgef%C3%A4hrlich-verletzt/)
-- [Prenzlauer Berg – 46-Jährige tot in Gebüsch gefunden: Mordkommission ermittelt](https://d1strict.media/artikel/428-prenzlauer-berg-46-j%C3%A4hrige-tot-in-geb%C3%BCsch-gefunden-mordkommission-ermittelt/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
